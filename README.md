@@ -15,7 +15,8 @@ o curso de Tecnologia em Redes de Computadores, do Colégio Técnico Industrial 
 
 ## Programa
 
-> [!NOTE] O programa descrito aqui pode estar desatualizado. Confira sempre no
+> [!NOTE]
+> O programa descrito aqui pode estar desatualizado. Confira sempre no
 > [ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174)!
 
 
@@ -58,4 +59,3 @@ Livros não-linkados podem estar disponíveis nas bibliotecas físicas da UFSM (
   * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
   * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
 
-https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788522478392
