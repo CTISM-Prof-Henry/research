@@ -58,4 +58,3 @@ Livros não-linkados podem estar disponíveis nas bibliotecas físicas da UFSM (
   * [LIMA, Manolita C. Monografia: a engenharia da produção acadêmica. São Paulo: Saraiva, 2008.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788502088771)
   * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
   * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
-
