@@ -15,7 +15,8 @@ o curso de Tecnologia em Redes de Computadores, do Colégio Técnico Industrial 
 
 ## Programa
 
-> [!NOTE] O programa descrito aqui pode estar desatualizado. Confira sempre no
+> [!NOTE]
+> O programa descrito aqui pode estar desatualizado. Confira sempre no
 > [ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174)!
 
 
