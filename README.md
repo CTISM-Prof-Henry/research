@@ -1,59 +1,61 @@
-# Título do repositório
+# Pesquisa Aplicada
 
-Descrição curta do repositório.
+Repositório para armazenar o conhecimento da disciplina Pesquisa Aplicada, lecionada pelo professor Henry Cagnini, para 
+o curso de Tecnologia em Redes de Computadores, do Colégio Técnico Industrial de Santa Maria.
 
-## Sumário
+## Dados da disciplina
 
-* [Pré-requisitos](#pré-requisitos)
-* [Instalação](#instalação)
-* [Instruções de uso](#instruções-de-uso)
-* [Contato](#contato)
-* [Bibliografia](#bibliografia)
-
-## Pré-requisitos
-
-Esta seção detalha os pré-requisitos que outro usuário precisa atingir para poder executar o código-fonte. Por exemplo,
-o parágrafo abaixo descreve um requisito do Python Anaconda:
-
-Este repositório requer a última versão do [Python Anaconda](https://www.anaconda.com/download) para ser executado, 
-visto que usa o gerenciador de pacotes conda. O código executará em qualquer Sistema Operacional, mas foi desenvolvido
-originalmente para Windows 10 Pro (64 bits).
-
-As configurações da máquina que o repositório foi desenvolvido encontram-se na tabela abaixo:
-
-| Configuração        | Valor                    |
-|---------------------|--------------------------|
-| Sistema operacional | Windows 10 Pro (64 bits) |
-| Processador         | Intel core i7 9700       |
-| Memória RAM         | 16GB                     |
-| Necessita rede?     | Sim                      |
+| Dado                | Valor                                                       |
+|:--------------------|:------------------------------------------------------------|
+| Nome                | Pesquisa aplicada                                           |
+| Curso               | Tecnologia em Redes de Computadores                         |
+| Carga horária       | 15h prática, 30h teórica (45h total)                        |
+| link para Ementário | [link](https://www.ufsm.br/ementario/disciplinas/DPADI0174) |
 
 
-## Instalação
+## Programa
 
-Descreva aqui as instruções para instalar as ferramentas, bibliotecas e plugins para executar o código do projeto:
+> [!NOTE] O programa descrito aqui pode estar desatualizado. Confira sempre no
+> [ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174)!
 
-```bash
-conda create --name myenv python==3.* pip --yes
-conda activate myenv
-conda install --file requirements.txt --yes
-```
 
-## Instruções de Uso
-
-Descreva aqui o passo-a-passo que outros usuários precisam realizar para conseguir executar com sucesso o código-fonte
-deste projeto:
-
-```bash
-python main.py
-```
-
-## Contato
-
-O repositório foi originalmente desenvolvido por Fulano: [fulano@ufsm.br]()
+1. **CIÊNCIA E CONHECIMENTO**
+   1. Ciência e compreensão da realidade;
+   2. Tipos de conhecimento;
+2. **MÉTODO CIENTÍFICO** 
+   1. Abordagens e classificações; 
+3. **TRABALHOS ACADÊMICOS**
+   1. Tipos de trabalho acadêmico: fichamento, sinopse, resumo, resenha, artigo, relatório, projeto, memorial, 
+      pôster, monografia, dissertação, tese; 
+   2. Estrutura, organização e elaboração de trabalhos acadêmicos.;
+   3. Normas técnicas e metodológicas;
+4. **ELABORAÇÃO DE DIFERENTES TRABALHOS ACADÊMICOS**
+   1. Artigos científicos;
+   2. Monografias;
+   3. Poster;
+   4. Relatórios acadêmicos.
 
 ## Bibliografia
 
-Adicione aqui entradas numa lista com a documentação pertinente:
+> [!NOTE]  
+> A bibliografia descrita aqui pode estar desatualizada. Confira sempre no 
+> [ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174)!
 
-* [Documentação ibm_db](https://www.ibm.com/docs/en/db2/11.5?topic=framework-application-development-db)
+Estes livros estão descritos na bibliografia da disciplina na página do 
+[ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174). Os livros que possuem links estão disponíveis na 
+biblioteca digital da UFSM.
+
+Livros não-linkados podem estar disponíveis nas bibliotecas físicas da UFSM (ex. Central, Setorial do CTISM, etc).
+
+* **BIBLIOGRAFIA BÁSICA**
+  * [ANDRADE, Maria M. Introdução à Metodologia do Trabalho Científico: Elaboração de trabalhos de graduação. 10. Ed. São Paulo: Atlas, 2010.](https://integrada.minhabiblioteca.com.br/reader/books/9788522478392/pageid/0)
+  * NUNES, Rizzatto. Manual de Monografia jurídica. São Paulo: Saraiva, 2013.
+  * [WAZLAWICK, Raul S. Metodologia de Pesquisa para Ciência da Computação. Rio de Janeiro: Campus, 2009.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788595157712)
+* **BIBLIOGRAFIA COMPLEMENTAR**
+  * [GIL, Antônio C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9786559771653)
+  * [LAKATOS, Eva M.; MARCONI, Mariana A. Fundamentos de Metodologia Científica. São Paulo: Atlas, 2005.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788597026580)
+  * [LIMA, Manolita C. Monografia: a engenharia da produção acadêmica. São Paulo: Saraiva, 2008.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788502088771)
+  * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
+  * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
+
+https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788522478392
