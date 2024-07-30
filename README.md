@@ -1,3 +1,5 @@
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/CTISM-Prof-Henry/research/master/README.md)
+
 # Pesquisa Aplicada
 
 Repositório para armazenar o conhecimento da disciplina Pesquisa Aplicada, lecionada pelo professor Henry Cagnini, para 
@@ -8,6 +10,7 @@ o curso de Tecnologia em Redes de Computadores, do Colégio Técnico Industrial 
 | Dado                | Valor                                                       |
 |:--------------------|:------------------------------------------------------------|
 | Nome                | Pesquisa aplicada                                           |
+| Código              | DPADI0174                                                   |
 | Curso               | Tecnologia em Redes de Computadores                         |
 | Carga horária       | 15h prática, 30h teórica (45h total)                        |
 | link para Ementário | [link](https://www.ufsm.br/ementario/disciplinas/DPADI0174) |
