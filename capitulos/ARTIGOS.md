@@ -27,7 +27,10 @@ Não devemos incluir citações - por exemplo, (CAGNINI, 2018) - nem siglas (CTI
 ## Palavras-chave
 
 Geralmente limitadas de 3 a 5, são as chaves que serão inseridas em motores de busca (Scopus, IEEE Xplore, Science 
-Direct, etc) para indexar o artigo. 
+Direct, etc) para indexar o artigo. As palavras-chave podem ser mais específicas do que o título.
+
+Por exemplo, para um trabalho intitulado `Uma rede neural para agendamento de salas de aula`, as palavras-chave poderiam 
+ser: rede neural, multilayer perceptron, problema do agendamento.
 
 ## Introdução
 
@@ -63,7 +66,7 @@ leitor.
 
 ## Resultados e discussão
 
-Esta seção é autoexplicatória: descreve-se os resultados obtidos, e discute-se as causas que levaram aos resultados, e o
+Nesta seção, descreve-se os resultados obtidos, e discute-se as causas que levaram aos resultados, e o
 que eles significam.
 
 É sempre importante enquadrar o método proposto no artigo sob uma luz positiva, enfatizando seus pontos fortes em 
