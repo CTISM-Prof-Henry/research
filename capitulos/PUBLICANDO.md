@@ -27,7 +27,7 @@ flowchart TD
     D3 -- "sim" --> E
 ```
 
-## Concepção
+## 1. Concepção
 
 O fluxograma de conceber uma ideia pode ser descrito da seguinte forma:
 
@@ -47,22 +47,31 @@ flowchart TD
     E --> F
 ```
 
-## Escrita
+## 2. Escrita
 
-Siga para o capítulo [Artigos](ARTIGOS.md).
+O capítulo [Artigos](ARTIGOS.md) entra em maiores detalhes sobre como escrever artigos.
 
-## Submissão
+## 3. Submissão
 
 O processo de submissão envolve diversas etapas menores. 
 
-### Pesquisar onde submeter
+### 3.1 Pesquisar onde submeter
 
 Quando um artigo está pronto, não basta simplesmente submetê-lo para qualquer lugar: é preciso achar um local onde a 
 probabilidade dele ser aceito é alta. Também existem outros aspectos, como o custo de submissão, e o controle de acesso 
 do artigo uma vez publicado.
 
-**🎯 Identifique o público-alvo:** São engenheiros? Cientistas da Computação? Pedagogos? Artistas? Se você mandar um artigo
-de engenharia para uma revista de pedagogia, as chances de aceitação serão baixas!
+**🎯 Identifique o público-alvo:** São engenheiros? Cientistas da Computação? Pedagogos? Artistas? Se você mandar um 
+artigo de engenharia para uma revista de pedagogia, as chances de aceitação serão baixas!
+
+**📢 Pesquise o fator de impacto:** Não queime seu artigo em uma revista ou conferência que não o merece! Busque 
+encontrar um veículo de publicação que tenha alto fator de impacto, mas que seja compatível com a qualidade do seu 
+artigo. Você pode consultar o conceito Qualis de revistas na 
+[página da CAPES](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf),
+e o conceito Qualis de conferências na área de computação na [página do Programa de Pós-Graduação em Ciência da 
+Computação da PUCRS](https://ppgcc.github.io/discentesPPGCC/pt-BR/qualis/). O Google Scholar também mantém um 
+[índice](https://scholar.google.com/citations?view_op=metrics_intro&hl=pt-BR) dos melhores lugares para publicar seu 
+artigo com base no índice-h.
 
 **💲 Veja se é preciso pagar:** Algumas revistas exigem que seja paga uma taxa para publicação de artigos (geralmente 
 cobrada na casa de milhares de dólares). Para conferências, é comum que pelo menos um autor esteja registrado no evento 
@@ -94,15 +103,45 @@ que deixá-lo engavetado uma vez publicado!
 [^1]: Disponível [neste link](https://www.science.org/content/article/scienceadviser-sharing-papers-social-media-probably-doesn-t-increase-citations-and-s)
 [^2]: Disponível [neste link](https://www.biorxiv.org/content/10.1101/2023.09.17.558161v1.full?et_rid=960447322&et_cid=4918971)
 
-### Enviar versão inicial
+### 3.2 Enviar versão inicial
 
-### Receber resultado
+Quando você localizar uma revista ou uma conferência para enviar seu artigo, leia atentamente o Guia para Autores 
+([exemplo](https://www.sciencedirect.com/journal/ecological-informatics/publish/guide-for-authors)) para saber quais requisitos seu artigo deve atender antes de ser considerado para publicação. As vezes,
+falhar em algum destes critérios é suficiente para o artigo sequer ser revisado!
+
+### 3.3 Receber resultado
 
 > [!NOTE]
 > O revisor 2 quase sempre é um babaca.
 
-### Enviar versão final
+Por vezes, quando submetemos nosso artigo para revisão, o processo de revisão segue uma das duas seguintes opções:
 
-## Recursos Adicionais
+* **blind:** os autores não sabem quem são os revisores, mas os revisores sabem quem são os autores.
+* **double blind:** nem os revisores nem os autores sabem quem são uns aos outros.
+
+Este processo é feito de maneira a evitar que as pessoas sejam levadas a aprovar artigos de pesquisadores renomados, 
+simplesmente porque são famosos no meio científico. Porém, o outro efeito é que os textos de revisão podem vir com 
+expressões ríspidas.
+
+Não se deixe desanimar com isso! Implemente as modificações sugeridas, se julgar pertinente. Se o artigo for aceito, 
+faça as alterações para a versão final; se o artigo não foi aceito, pondere se implementando as sugestões dos revisores,
+as chances de enviar para outro veículo de publicação serão maiores no futuro.
+
+Uma rejeição de um artigo geralmente significa que o artigo não pode ser resubmetido para aquele mesmo veículo. Portanto,
+neste caso, é hora de achar outro local para publicar!
+
+### 3.4 Enviar versão final
+
+Algumas revistas exigem que uma carta de resposta aos revisores seja elaborada após as correções implementadas. Nesta 
+carta, é preciso fazer um _changelog_ de tudo que foi feito desde a versão anterior, e justificar o porque das 
+modificações feitas (por exemplo, se você não acatou uma sugestão, vai precisar defendê-la em termos científicos). 
+
+Após enviar a nova versão do artigo e esta carta, não é garantia que o artigo será publicado: pode ser que uma nova 
+rodada de revisões ocorra, e até mesmo que seu artigo seja rejeitado nesta nova revisão! 
+(curiosidade: já aconteceu comigo...)
+
+Não deixe que isso lhe desanime! Tudo isto faz parte do processo.
+
+## 4. Recursos Adicionais
 
 * [Guia da Elsevier para publicar artigos](https://www.elsevier.com/researcher/author/submit-your-paper) 
