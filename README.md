@@ -5,6 +5,11 @@
 Repositório para armazenar o conhecimento da disciplina Pesquisa Aplicada, lecionada pelo professor Henry Cagnini, para 
 o curso de Tecnologia em Redes de Computadores, do Colégio Técnico Industrial de Santa Maria.
 
+<a href="https://twitter.com/ResearchMark">
+    <img alt="Research Wahlberg" src="capitulos/imagens/research_wahlberg.png" width="50%">
+</a>
+
+
 ## Dados da disciplina
 
 | Dado                | Valor                                                       |

@@ -73,13 +73,13 @@ para publicar em cada lugar.
 **🔐 Veja como ficará o acesso após a publicação:** Cuidado para não sair compartilhando a versão errada! A versão que é 
 publicada em um repositório online geralmente só é acessível através do pagamento de uma taxa de acesso única:
 
-<img alt="tela de compra de um artigo" src="imagens/comprar_artigo.png">
+<img alt="tela de compra de um artigo" src="imagens/comprar_artigo.png" width="60%">
 
 Ou então através da assinatura de um serviço de acesso a repositórios online de artigos (geralmente paga por 
 universidades). Porém, a versão submetida para revisão geralmente não possui essas restrições, podendo ser compartilhada 
 com colegas, e no site da universidade:
 
-<img alt="tela do Sherpa Romeo" src="imagens/sherpa_romeo_ker.png">
+<img alt="tela do Sherpa Romeo" src="imagens/sherpa_romeo_ker.png" width="75%">
 
 (imagem adaptada [deste link](https://v2.sherpa.ac.uk/id/publication/2234))
 
