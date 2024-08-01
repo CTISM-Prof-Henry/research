@@ -9,6 +9,14 @@ da linguagem, e recursos adicionais.
 
 ## Histórico
 
+<img alt="Donald Knuth" src="imagens/latex/donald_knuth.jpg" width="400px">
+
+Donald Knuth
+
+<img alt="Donald Knuth" src="imagens/latex/leslie_lamport.jpg" width="400px">
+
+Leslie Lamport
+
 ## Estrutura de um projeto
 
 
