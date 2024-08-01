@@ -2,24 +2,25 @@
 
 # Pesquisa Aplicada
 
-Repositório para armazenar o conhecimento da disciplina Pesquisa Aplicada, lecionada pelo professor Henry Cagnini, para 
-o curso de Tecnologia em Redes de Computadores, do Colégio Técnico Industrial de Santa Maria.
-
-<a href="https://twitter.com/ResearchMark">
-    <img alt="Research Wahlberg" src="capitulos/imagens/research_wahlberg.png" width="50%">
-</a>
-
+<center>
+    <a href="https://twitter.com/ResearchMark">
+        <img alt="Research Wahlberg" src="capitulos/imagens/research_wahlberg.png" width="50%">
+    </a>
+</center>
 
 ## Dados da disciplina
 
-| Dado                | Valor                                                       |
-|:--------------------|:------------------------------------------------------------|
-| Nome                | Pesquisa aplicada                                           |
-| Código              | DPADI0174                                                   |
-| Curso               | Tecnologia em Redes de Computadores                         |
-| Carga horária       | 15h prática, 30h teórica (45h total)                        |
-| link para Ementário | [link](https://www.ufsm.br/ementario/disciplinas/DPADI0174) |
+| Dado          | Valor                                                       |
+|:--------------|:------------------------------------------------------------|
+| Nome          | Pesquisa aplicada                                           |
+| Código        | DPADI0174                                                   |
+| Curso         | Tecnologia em Redes de Computadores                         |
+| Carga horária | 15h prática, 30h teórica (45h total)                        |
+| Ementário     | [link](https://www.ufsm.br/ementario/disciplinas/DPADI0174) |
 
+## Conteúdos
+
+Acesse a página [Capítulos](capitulos/README.md)
 
 ## Programa
 

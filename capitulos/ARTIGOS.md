@@ -4,9 +4,9 @@
 
 A estrutura básica de um artigo pode ser descrita da seguinte forma: 
 
-<div style="text-align: center">
+<center>
 <img alt="uma folha de uma artigo descrevendo sua estrutura básica" src="imagens/artigo.svg" width="25%">
-</div>
+</center>
 
 ## Título
 
