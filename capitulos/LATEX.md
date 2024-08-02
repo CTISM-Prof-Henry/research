@@ -13,13 +13,15 @@ da linguagem, e recursos adicionais.
 
 Donald Knuth
 
+<img alt="Donald Knuth" src="imagens/latex/iron_cast_printer.jpg" width="400px">
+
+Letras de ferro
+
 <img alt="Donald Knuth" src="imagens/latex/leslie_lamport.jpg" width="400px">
 
 Leslie Lamport
 
 ## Estrutura de um projeto
-
-
 
 ## Aprendendo a escrever em LaTeX
 

@@ -2,11 +2,9 @@
 
 # Pesquisa Aplicada
 
-<center>
-    <a href="https://twitter.com/ResearchMark">
-        <img alt="Research Wahlberg" src="capitulos/imagens/research_wahlberg.png" width="50%">
-    </a>
-</center>
+<a href="https://twitter.com/ResearchMark">
+    <img alt="Research Wahlberg" src="capitulos/imagens/research_wahlberg.png" width="375px">
+</a>
 
 ## Dados da disciplina
 
