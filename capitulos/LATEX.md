@@ -56,4 +56,4 @@ Veja como é a saída esperada na coluna da direita.
 * [Overleaf](https://www.overleaf.com)
   * [Documentação LaTeX](https://www.overleaf.com/learn)
 * [Editor online de equações](https://editor.codecogs.com/)
-* 
+* [História do LaTeX](https://www.youtube.com/watch?v=9eLjt5Lrocw)
