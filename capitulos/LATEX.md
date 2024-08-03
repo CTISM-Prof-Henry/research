@@ -13,13 +13,15 @@ da linguagem, e recursos adicionais.
 
 Donald Knuth
 
+<img alt="Donald Knuth" src="imagens/latex/iron_cast_printer.jpg" width="400px">
+
+Letras de ferro
+
 <img alt="Donald Knuth" src="imagens/latex/leslie_lamport.jpg" width="400px">
 
 Leslie Lamport
 
 ## Estrutura de um projeto
-
-
 
 ## Aprendendo a escrever em LaTeX
 
@@ -56,4 +58,4 @@ Veja como é a saída esperada na coluna da direita.
 * [Overleaf](https://www.overleaf.com)
   * [Documentação LaTeX](https://www.overleaf.com/learn)
 * [Editor online de equações](https://editor.codecogs.com/)
-* 
+* [História do LaTeX](https://www.youtube.com/watch?v=9eLjt5Lrocw)
