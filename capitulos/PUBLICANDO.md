@@ -106,7 +106,8 @@ que deixá-lo engavetado uma vez publicado!
 ### 3.2 Enviar versão inicial
 
 Quando você localizar uma revista ou uma conferência para enviar seu artigo, leia atentamente o Guia para Autores 
-([exemplo](https://www.sciencedirect.com/journal/ecological-informatics/publish/guide-for-authors)) para saber quais requisitos seu artigo deve atender antes de ser considerado para publicação. As vezes,
+([exemplo](https://www.sciencedirect.com/journal/ecological-informatics/publish/guide-for-authors)) para saber quais 
+requisitos seu artigo deve atender antes de ser considerado para publicação. As vezes,
 falhar em algum destes critérios é suficiente para o artigo sequer ser revisado!
 
 ### 3.3 Receber resultado

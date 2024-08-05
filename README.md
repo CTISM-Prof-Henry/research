@@ -20,6 +20,70 @@
 
 Acesse a página [Capítulos](capitulos/README.md)
 
+## Perguntas & Respostas
+
+**🟥 PERGUNTA:** Por que eu preciso fazer essa disciplina? 😫
+
+**🟢 RESPOSTA:** Para ter uma melhor compreensão de pesquisa acadêmica, elaboração de documentos acadêmicos, e suas 
+tecnologias.
+
+(e também porque, se você for fazer TCC, você vai precisar saber 100% do que esta disciplina cobre)
+
+**🟥 PERGUNTA:** O professor cobra presença? ☝️🤓
+
+**🟢 RESPOSTA:** Sim! É preciso no mínimo 75% de presença para ser aprovado na disciplina.
+
+**🟥 PERGUNTA:** Dá pra reprovar por presença então?? 😫
+
+**🟢 RESPOSTA:** Sim! 😬
+
+**🟥 PERGUNTA:** Posso copiar meu trabalho da Internet/de um colega/do ChatGPT? ☝️🤓  
+
+**🟢 RESPOSTA:** Não! 
+
+> [!CAUTION]
+> Segundo o [Código de Ética e Convivência Discente da Universidade Federal de Santa Maria de 2018](https://www.ufsm.br/pro-reitorias/proplan/codigo-de-etica-e-convivencia-discente-da-universidade-federal-de-santa-maria), 
+> Artigo 11º, Inciso VIII, é uma **infração grave** "plagiar, total ou parcialmente, obras literárias, 
+> artísticas, científicas, técnicas ou culturais".
+
+**🟥 PERGUNTA:** Tá, mas o que acontece se eu... 
+
+* ...gerar todo o meu trabalho pelo ChatGPT? ☝️🤓
+  * nota zero! ⭕
+* ...copiar da Internet? ☝️🤓
+  * nota zero! ⭕
+* ...copiar do meu colega? ☝️🤓
+  * 50% da nota para os dois alunos 
+  * se alguém abrir o bico e dedurar o coleguinha, 100% da nota para quem abrir o bico, 0% para quem ficou quieto
+* ...pagar um veterano para fazer o meu trabalho? ☝️🤓
+  * [você tem brio?](https://www.youtube.com/watch?v=TRPBY_lxJfE)
+
+> [!CAUTION]
+> Segundo o [Código de Ética e Convivência Discente da Universidade Federal de Santa Maria de 2018](https://www.ufsm.br/pro-reitorias/proplan/codigo-de-etica-e-convivencia-discente-da-universidade-federal-de-santa-maria), 
+> Artigo 9, Inciso V, é uma **infração média** "incumbir outra pessoa do desempenho de tarefa que seja de sua 
+> responsabilidade".
+
+> [!CAUTION]
+> Segundo o [Código de Ética e Convivência Discente da Universidade Federal de Santa Maria de 2018](https://www.ufsm.br/pro-reitorias/proplan/codigo-de-etica-e-convivencia-discente-da-universidade-federal-de-santa-maria), 
+> Artigo 11, Inciso XIV, é uma **infração grave** "recorrer a meios fraudulentos para lograr aprovação, promoção ou 
+> outra vantagem, para si ou para outrem".
+
+**🟥 PERGUNTA:** O que acontece se eu entregar meu trabalho atrasado?  
+
+**🟢 RESPOSTA:** Eu não aceito submissão de trabalhos atrasados! Envie uma versão provisória no Moodle, ou na pior das 
+hipóteses (caso o Moodle esteja fora do ar), para o meu e-mail.
+
+**🟥 PERGUNTA:** Tenho uma dúvida fora do horário de aula. O que eu faço com ela?  
+
+**🟢 RESPOSTA:** Me mande um e-mail! [henry.cagnini@ufsm.br]()
+
+
+## Avaliação
+
+* 2 trabalhos **individuais**
+  * 1 artigo (50%) 
+  * 1 pôster (50%)
+
 ## Programa
 
 > [!NOTE]
@@ -42,6 +106,10 @@ Acesse a página [Capítulos](capitulos/README.md)
    2. Monografias;
    3. Poster;
    4. Relatórios acadêmicos.
+
+## E-mail do professor
+
+[henry.cagnini@ufsm.br]()
 
 ## Bibliografia
 
