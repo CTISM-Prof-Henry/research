@@ -6,6 +6,16 @@
     <img alt="Research Wahlberg" src="capitulos/imagens/research_wahlberg.png" width="375px">
 </a>
 
+## Sumário
+
+* [Dados da disciplina](#dados-da-disciplina)
+* [Conteúdos](#conteúdos)
+* [Perguntas & Respostas](#perguntas--respostas)
+* [Avaliação](#avaliação)
+* [Programa](#programa)
+* [Bibliografia](#bibliografia)
+* [Contato](#contato)
+
 ## Dados da disciplina
 
 | Dado          | Valor                                                       |
@@ -19,6 +29,12 @@
 ## Conteúdos
 
 Acesse a página [Capítulos](capitulos/README.md)
+
+## Avaliação
+
+* 2 trabalhos **individuais**
+  * 1 artigo (50%) 
+  * 1 pôster (50%)
 
 ## Perguntas & Respostas
 
@@ -78,12 +94,6 @@ hipóteses (caso o Moodle esteja fora do ar), para o meu e-mail.
 Me mande um e-mail! [henry.cagnini@ufsm.br]()
 
 
-## Avaliação
-
-* 2 trabalhos **individuais**
-  * 1 artigo (50%) 
-  * 1 pôster (50%)
-
 ## Programa
 
 > [!NOTE]
@@ -107,9 +117,6 @@ Me mande um e-mail! [henry.cagnini@ufsm.br]()
    3. Poster;
    4. Relatórios acadêmicos.
 
-## E-mail do professor
-
-[henry.cagnini@ufsm.br]()
 
 ## Bibliografia
 
@@ -133,3 +140,8 @@ Livros não-linkados podem estar disponíveis nas bibliotecas físicas da UFSM (
   * [LIMA, Manolita C. Monografia: a engenharia da produção acadêmica. São Paulo: Saraiva, 2008.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788502088771)
   * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
   * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
+
+
+## Contato
+
+[henry.cagnini@ufsm.br]()

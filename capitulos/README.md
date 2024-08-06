@@ -1,6 +1,7 @@
 # Capítulos
 
-## [Conhecimento](CONHECIMENTO.md)
-## [Tipos de Trabalhos Acadêmicos](TRABALHOS_ACADEMICOS.md)
-### [Estrutura de um artigo](ARTIGOS.md)
-## [LaTeX](LATEX.md)
+1. [Conhecimento](CONHECIMENTO.md)
+2. [Tipos de Trabalhos Acadêmicos](TRABALHOS_ACADEMICOS.md)
+3. [Estrutura de um artigo](ARTIGOS.md)
+4. [LaTeX](LATEX.md) 
+5. [Publicando sua pesquisa](PUBLICANDO.md)
