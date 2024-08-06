@@ -36,22 +36,20 @@ A equipe do Overleaf fez um tutorial "Como aprender LaTeX em 30 minutos", dispon
 Crie um novo documento no Overleaf. Para cada uma das linhas da tabela abaixo, faça o que se pede na coluna da esquerda.
 Veja como é a saída esperada na coluna da direita.
 
-| Enunciado                              | Exemplo de saída                                                                      |
-|:---------------------------------------|:--------------------------------------------------------------------------------------|
-| Figura com legenda embaixo             | ![charmander_legenda_embaixo.png](imagens/latex/charmander_legenda_embaixo.png)       |
-| Figura com legenda em cima             | ![charmander_legenda_emcima.png](imagens/latex/charmander_legenda_emcima.png)         | 
-| Subfiguras                             | ![subfiguras.png](imagens/latex/subfiguras.png)                                       |
-| Tabela com legenda embaixo             | ![tabela_legenda_embaixo.png](imagens/latex/tabela_legenda_embaixo.png)               |
-| Tabela com legenda em cima             | ![tabela_legenda_emcima.png](imagens/latex/tabela_legenda_emcima.png)                 |
-| Tabela com réguas                      | ![tabela_rulers.png](imagens/latex/tabela_rulers.png)                                 |
-| Tabela com réguas e cores              | ![tabela_rulers_colors.png](imagens/latex/tabela_rulers_colors.png)                   |
-| Tabela com réguas, cores e multilinhas | ![tabela_rulers_colors_multirow.png](imagens/latex/tabela_rulers_colors_multirow.png) |
-| Lista numerada                         | ![lista_numerada.png](imagens/latex/lista_numerada.png)                               |
-| Lista não-numerada                     | ![lista_nao_numerada.png](imagens/latex/lista_nao_numerada.png)                       |
-| Três níveis de seções                  | ![secoes.png](imagens/latex/secoes.png)                                               |
-| Equações                               |                                                                                       |
-| Equações multilinhas                   |                                                                                       |
-| Múltiplas equações                     |                                                                                       |
+| Enunciado                              | Exemplo de saída                                                          |
+|:---------------------------------------|:--------------------------------------------------------------------------|
+| Figura com legenda embaixo             | <img src="imagens/latex/charmander_legenda_embaixo.png" width="330px">    |
+| Figura com legenda em cima             | <img src="imagens/latex/charmander_legenda_emcima.png" width="330px">     | 
+| Subfiguras                             | <img src="imagens/latex/subfiguras.png" width="330px">                    |
+| Tabela com legenda embaixo             | <img src="imagens/latex/tabela_legenda_embaixo.png" width="330px">        |
+| Tabela com legenda em cima             | <img src="imagens/latex/tabela_legenda_emcima.png" width="330px">         |
+| Tabela com réguas                      | <img src="imagens/latex/tabela_rulers.png" width="330px">                 |
+| Tabela com réguas e cores              | <img src="imagens/latex/tabela_rulers_colors.png" width="330px">          |
+| Tabela com réguas, cores e multilinhas | <img src="imagens/latex/tabela_rulers_colors_multirow.png" width="330px"> |
+| Lista numerada                         | <img src="imagens/latex/lista_numerada.png" width="330px">                |
+| Lista não-numerada                     | <img src="imagens/latex/lista_nao_numerada.png" width="330px">            |
+| Três níveis de seções                  | <img src="imagens/latex/secoes.png" width="330px">                        |
+| Equações                               | <img src="imagens/latex/equacao.png" width="330px">                       |
 
 ## Recursos Adicionais
 
