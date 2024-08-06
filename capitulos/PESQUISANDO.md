@@ -149,6 +149,6 @@ feito isto para todos os artigos, prossiga para revisá-los por inteiro.
 copie-e-cole a frase, colocando-a entre parênteses, e já faça a citação no texto do artigo que você está escrevendo! 
 Com isso, fica fácil no futuro organizar o texto em torno dos artigos lidos.   
 
-## 4. Recursos Adicionais
+## Recursos Adicionais
 
 * [Guia da Elsevier para publicar artigos](https://www.elsevier.com/researcher/author/submit-your-paper) 
