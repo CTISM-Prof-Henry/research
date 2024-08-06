@@ -23,7 +23,7 @@ Leslie Lamport
 
 ## Estrutura de um projeto
 
-
+![estrutura_artigo.png](imagens/latex/estrutura_artigo.png)
 
 ## Aprendendo a escrever em LaTeX
 
