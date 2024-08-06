@@ -131,15 +131,15 @@ biblioteca digital da UFSM.
 Livros não-linkados podem estar disponíveis nas bibliotecas físicas da UFSM (ex. Central, Setorial do CTISM, etc).
 
 * **BIBLIOGRAFIA BÁSICA**
-    * [ANDRADE, Maria M. Introdução à Metodologia do Trabalho Científico: Elaboração de trabalhos de graduação. 10. Ed. São Paulo: Atlas, 2010.](https://integrada.minhabiblioteca.com.br/reader/books/9788522478392/pageid/0)
-    * NUNES, Rizzatto. Manual de Monografia jurídica. São Paulo: Saraiva, 2013.
-    * [WAZLAWICK, Raul S. Metodologia de Pesquisa para Ciência da Computação. Rio de Janeiro: Campus, 2009.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788595157712)
+  * [ANDRADE, Maria M. Introdução à Metodologia do Trabalho Científico: Elaboração de trabalhos de graduação. 10. Ed. São Paulo: Atlas, 2010.](https://integrada.minhabiblioteca.com.br/reader/books/9788522478392/pageid/0)
+  * NUNES, Rizzatto. Manual de Monografia jurídica. São Paulo: Saraiva, 2013.
+  * [WAZLAWICK, Raul S. Metodologia de Pesquisa para Ciência da Computação. Rio de Janeiro: Campus, 2009.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788595157712)
 * **BIBLIOGRAFIA COMPLEMENTAR**
-    * [GIL, Antônio C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9786559771653)
-    * [LAKATOS, Eva M.; MARCONI, Mariana A. Fundamentos de Metodologia Científica. São Paulo: Atlas, 2005.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788597026580)
-    * [LIMA, Manolita C. Monografia: a engenharia da produção acadêmica. São Paulo: Saraiva, 2008.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788502088771)
-    * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
-    * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
+  * [GIL, Antônio C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9786559771653)
+  * [LAKATOS, Eva M.; MARCONI, Mariana A. Fundamentos de Metodologia Científica. São Paulo: Atlas, 2005.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788597026580)
+  * [LIMA, Manolita C. Monografia: a engenharia da produção acadêmica. São Paulo: Saraiva, 2008.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788502088771)
+  * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
+  * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
 
 
 ## Contato
