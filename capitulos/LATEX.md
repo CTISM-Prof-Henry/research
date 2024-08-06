@@ -57,7 +57,7 @@ Veja como é a saída esperada na coluna da direita.
 | Três níveis de seções                  | ![](imagens/latex/secoes.png)                                              |
 | Equações                               | ![](imagens/latex/equacao.png)                                             |
 | Notas de rodapé                        | ![](imagens/latex/rodape_1.png)![rodape_2.png](imagens/latex/rodape_2.png) |
-| URLs                                   | ![](imagens/latex/rodape_2.png)                                            |
+| URLs                                   | ![](imagens/latex/url.png)                                                 |
 | Referências                            | ![](imagens/latex/citacao.png)                                             |
 
 
