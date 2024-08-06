@@ -23,6 +23,8 @@ Leslie Lamport
 
 ## Estrutura de um projeto
 
+
+
 ## Aprendendo a escrever em LaTeX
 
 A equipe do Overleaf fez um tutorial "Como aprender LaTeX em 30 minutos", disponível 
@@ -31,25 +33,33 @@ A equipe do Overleaf fez um tutorial "Como aprender LaTeX em 30 minutos", dispon
 ## Exercícios
 
 > [!NOTE]
-> Para fazer alguns destes exercícios, talvez você precise usar os comandos `\usepackage` e `\RequirePackage`.
+> Você precisará usar os comandos `\usepackage` e/ou `\RequirePackage` para fazer alguns destes exercícios, pois nem 
+> todos os recursos listados abaixo estão presentes por padrão no LaTeX.
+> Consulte na Internet quais destes recursos precisam de importação de pacotes, e qual o nome dos pacotes a serem 
+> importados.
 
 Crie um novo documento no Overleaf. Para cada uma das linhas da tabela abaixo, faça o que se pede na coluna da esquerda.
 Veja como é a saída esperada na coluna da direita.
 
-| Enunciado                              | Exemplo de saída                                                          |
-|:---------------------------------------|:--------------------------------------------------------------------------|
-| Figura com legenda embaixo             | <img src="imagens/latex/charmander_legenda_embaixo.png" width="330px">    |
-| Figura com legenda em cima             | <img src="imagens/latex/charmander_legenda_emcima.png" width="330px">     | 
-| Subfiguras                             | <img src="imagens/latex/subfiguras.png" width="330px">                    |
-| Tabela com legenda embaixo             | <img src="imagens/latex/tabela_legenda_embaixo.png" width="330px">        |
-| Tabela com legenda em cima             | <img src="imagens/latex/tabela_legenda_emcima.png" width="330px">         |
-| Tabela com réguas                      | <img src="imagens/latex/tabela_rulers.png" width="330px">                 |
-| Tabela com réguas e cores              | <img src="imagens/latex/tabela_rulers_colors.png" width="330px">          |
-| Tabela com réguas, cores e multilinhas | <img src="imagens/latex/tabela_rulers_colors_multirow.png" width="330px"> |
-| Lista numerada                         | <img src="imagens/latex/lista_numerada.png" width="330px">                |
-| Lista não-numerada                     | <img src="imagens/latex/lista_nao_numerada.png" width="330px">            |
-| Três níveis de seções                  | <img src="imagens/latex/secoes.png" width="330px">                        |
-| Equações                               | <img src="imagens/latex/equacao.png" width="330px">                       |
+| Enunciado                              | Exemplo de saída                                                           |
+|:---------------------------------------|:---------------------------------------------------------------------------|
+| Texto em itálico, negrito e sublinhado |                                                                            |
+| Figura com legenda embaixo             | ![](imagens/latex/charmander_legenda_embaixo.png)                          |
+| Figura com legenda em cima             | ![](imagens/latex/charmander_legenda_emcima.png)                           | 
+| Subfiguras                             | ![](imagens/latex/subfiguras.png)                                          |
+| Tabela com legenda em cima             | ![](imagens/latex/tabela_legenda_emcima.png)                               |
+| Tabela com legenda embaixo             | ![](imagens/latex/tabela_legenda_embaixo.png)                              |
+| Tabela com réguas                      | ![](imagens/latex/tabela_rulers.png)                                       |
+| Tabela com réguas e cores              | ![](imagens/latex/tabela_rulers_colors.png)                                |
+| Tabela com réguas, cores e multilinhas | ![](imagens/latex/tabela_rulers_colors_multirow.png)                       |
+| Lista numerada                         | ![](imagens/latex/lista_numerada.png)                                      |
+| Lista não-numerada                     | ![](imagens/latex/lista_nao_numerada.png)                                  |
+| Três níveis de seções                  | ![](imagens/latex/secoes.png)                                              |
+| Equações                               | ![](imagens/latex/equacao.png)                                             |
+| Notas de rodapé                        | ![](imagens/latex/rodape_1.png)![rodape_2.png](imagens/latex/rodape_2.png) |
+| URLs                                   | ![](imagens/latex/rodape_2.png)                                            |
+| Referências                            | ![](imagens/latex/citacao.png)                                             |
+
 
 ## Recursos Adicionais
 
