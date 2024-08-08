@@ -100,7 +100,6 @@ Veja como é a saída esperada na coluna da direita.
 
 | Enunciado                              | Exemplo de saída                                                           |
 |:---------------------------------------|:---------------------------------------------------------------------------|
-| Texto em itálico, negrito e sublinhado |                                                                            |
 | Figura com legenda embaixo             | ![](imagens/latex/charmander_legenda_embaixo.png)                          |
 | Figura com legenda em cima             | ![](imagens/latex/charmander_legenda_emcima.png)                           | 
 | Subfiguras                             | ![](imagens/latex/subfiguras.png)                                          |
