@@ -17,6 +17,18 @@ A principal diferença do LaTeX em relação ao Microsoft Word está na filosofi
 is what you get", LaTeX é do tipo "what you see is what you mean". Em outras palavras: enquanto no Word configuramos a 
 aparência do texto, no LaTeX **programamos** a aparência do texto com comandos do tipo `\textit{texto em itálico}`. 
 
+## Por que usar LaTeX?
+
+Diretamente da Seção [Why learn LaTeX](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#Why_learn_LaTeX?) 
+da documentação do Overleaf:
+
+* Suporte para escrever expressões matemáticas complexas, tabelas, algoritmos, dentre outros recursos necessários 
+  geralmente às ciências "duras";
+* Facilidade de escrever notas de rodapé, referências cruzadas (e.g. Seção 1, Figura 1), e gestão de bibliografia;
+* Facilidade de produzir elementos textuais chatos ou complicados, como índices, glossários, sumários, listas de 
+  figuras, dentre outros;
+* Ser altamente customizável através da combinação de pacotes e bibliotecas de terceiros.
+
 ## Histórico
 
 <img alt="Donald Knuth" src="imagens/latex/donald_knuth.jpg" width="400px">
@@ -30,6 +42,11 @@ Letras de ferro
 <img alt="Donald Knuth" src="imagens/latex/leslie_lamport.jpg" width="400px">
 
 Leslie Lamport
+
+## Aprendendo a escrever em LaTeX
+
+A equipe do Overleaf fez um tutorial "Como aprender LaTeX em 30 minutos", disponível 
+[neste link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 
 ## Estrutura de um projeto
 
@@ -50,10 +67,6 @@ dores de cabeça no futuro. A estrutura que eu particularmente uso, no geral, é
 * 📒 referencias.bib
 ```
 
-> [!NOTE]
-> Existem outros dois tipos de arquivo, `.sty` e `.bst`, que configuram respectivamente o estilo de um documento e o 
-> formato de citações.
-
 ### Tipos de arquivo 
 
 * `.tex` Arquivo com a linguagem de marcação LaTeX. É onde escrevemos o texto propriamente, inserimos figuras, tabelas, 
@@ -61,16 +74,18 @@ dores de cabeça no futuro. A estrutura que eu particularmente uso, no geral, é
 * `.bib` é um arquivo onde colocamos todas as citações bibliográficas do documento, para depois serem citadas nos 
   arquivos `.tex` 
 
-## Aprendendo a escrever em LaTeX
-
-A equipe do Overleaf fez um tutorial "Como aprender LaTeX em 30 minutos", disponível 
-[neste link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
+> [!NOTE]
+> Existem outros dois tipos de arquivo, `.sty` e `.bst`, que configuram respectivamente o estilo de um documento e o 
+> formato de citações.
 
 ## Dicas
 
 **🖥️ Copie o BibTeX do Google Scholar:** O Google Scholar possui, para a maioria dos artigos e livros, a citação BibTeX 
 pronta (e correta). Jogue o nome do documento no buscador e clique no botão <img src="imagens/latex/citar.png"> 
 Depois, selecione a opção **BibTeX**, e copie-e-cole o código no arquivo `.bib` do seu projeto. 
+
+**🟧 Use o StackOverflow sem medo:** muitas vezes eu nem tento fazer as coisas. Eu só procuro no google 
+"latex how to use multirow" [e copio a resposta](https://tex.stackexchange.com/questions/73283/how-to-use-multirow). 
 
 ## Exercícios
 
@@ -101,6 +116,7 @@ Veja como é a saída esperada na coluna da direita.
 | Notas de rodapé                        | ![](imagens/latex/rodape_1.png)![rodape_2.png](imagens/latex/rodape_2.png) |
 | URLs                                   | ![](imagens/latex/url.png)                                                 |
 | Referências                            | ![](imagens/latex/citacao.png)                                             |
+| Algoritmos                             | ![](imagens/latex/algoritmo.png)                                           |
 
 
 ## Recursos Adicionais
