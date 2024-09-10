@@ -120,15 +120,18 @@ indicando onde na internet aquele anexo está disponível:
 > [^1]: Disponível em https://github.com/CTISM-Prof-Henry/research. 
 > [^2]: Disponível em https://zenodo.org/records/7139621.
 
-## Dicas gerais
+## Dicas de escrita
 
-**📏 Seja conciso:** comunique suas ideias da maneira mais breve possível, sempre. Um leitor atento consegue sempre ver se
-o autor domina o assunto ou não! Além do mais, se a introdução de um artigo for fraca, mas o método for forte, um leitor
-pode desconsiderar o artigo como um todo simplesmente porque não há consistência entre as seções.
+**✍️ Escreve isso aí direito!** Hoje em dia existem corretores ortográficos em diversos editores de texto, e até mesmo 
+no próprio teclado virtual de dispositivos móveis. Não existe razão para não revisar a ortografia do texto! 
 
-**😇 Seja honesto:** Usou ChatGPT para escrever o texto? Deixe isto claro! Algumas revistas **exigem** que os autores digam
-se usaram IAs para auxiliar na escrita do texto. Leitores atentos, novamente, conseguem dizer se um texto foi gerado por
-uma IA; não deixar isto claro pode lhe prejudicar durante o processo de avaliação!
+**📏 Seja conciso:** comunique suas ideias da maneira mais breve possível, sempre. Um leitor atento consegue sempre ver 
+se o autor domina o assunto ou não! Além do mais, se a introdução de um artigo for fraca, mas o método for forte, um 
+leitor pode desconsiderar o artigo como um todo simplesmente porque não há consistência entre as seções.
+
+**😇 Seja honesto:** Usou ChatGPT para escrever o texto? Deixe isto claro! Algumas revistas **exigem** que os autores 
+digam se usaram IAs para auxiliar na escrita do texto. Leitores atentos, novamente, conseguem dizer se um texto foi 
+gerado por uma IA; não deixar isto claro pode lhe prejudicar durante o processo de avaliação!
 
 **🚾 Introduza as siglas antes de usá-las:** Ao escrever `O Colégio Técnico Industrial de Santa Maria (CTISM)`,
 isso nos possibilita referenciá-lo apenas por `CTISM` no futuro.
