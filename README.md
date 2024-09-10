@@ -30,9 +30,13 @@
 
 Acesse a página [Capítulos](capitulos/README.md)
 
+## Plano de ensino
+
+Disponível [neste arquivo](plano/plano_ensino_DPADI0174_078_CTISM_10_2024_102.pdf)
+
 ## Avaliação
 
-* 2 trabalhos **individuais**
+* 2 trabalhos **em grupo**
   * 1 artigo (50%) 
   * 1 pôster (50%)
 
