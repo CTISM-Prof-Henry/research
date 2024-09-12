@@ -14,8 +14,6 @@
 | **É exato?**       |                                                                        | ➕➖🎯                                                                        | ➕➖🎯                                                                            | 🎯                                                                  |
 | **É sistemático?** |                                                                        | ✅                                                                           | ✅                                                                               | ✅                                                                   |
 
-## Ciência e compreensão da realidade
-
 ## Método Científico
 
 <img alt="Representação de conhecimento" src="imagens/conhecimento/conhecimento.png" width="375px">
