@@ -35,7 +35,7 @@ Segundo o material de Brasil Escola [^2]:
   Psicologia, entre outros.
 * 🔬 **Método experimental:** nesse método, o objeto/fenômeno estudado é submetido a diferentes condições controladas,
   analisando-se o impacto gerado ao sistema. Essa abordagem é muito empregada na Química, na Física, na Biologia e nas
-  áreas farmacêutica e médica"
+  áreas farmacêutica e médica.
 
 
 ## Etapas do método científico
