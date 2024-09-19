@@ -80,6 +80,12 @@ flowchart LR
 <img alt="Eminem" src="imagens/conhecimento/falseavel.jpg" width="300px">
 </a>
 
+## Terraplanistas
+
+Por que os experimentos dos terraplanistas dão errado?
+
+<img alt="Flat earth experiment" src="https://i.ytimg.com/vi/28sJaLtefRg/maxresdefault.jpg" width="400px">
+
 ## Representação de conhecimento
 
 <img alt="Representação de conhecimento" src="imagens/conhecimento/conhecimento.png" width="375px">
