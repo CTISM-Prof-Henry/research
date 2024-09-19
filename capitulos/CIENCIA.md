@@ -28,11 +28,11 @@ Empíricas: estudam as _coisas_, geralmente baseando-se em fenômenos que ocorre
 basear-se em observações para serem validadas. Um exemplo de Teoria que possui pouca validação observacional é a Teoria 
 das Cordas, da Física, que é praticamente impossível de ser observada.
 
-As ciências empíricas podem ser divididas em dois subgrupos: ciências naturais (Física, Química, Biologia, 
-Ciências da Terra) e ciências sociais (História, Economia, Sociologia, Psicologia, Comunicação, Política, etc)
-
 > [!NOTE]
 > As áreas da computação que são consideradas empíricas e naturais são: eletrônica, circuitos digitais, etc.
+
+As ciências empíricas podem ser divididas em dois subgrupos: ciências naturais (Física, Química, Biologia, 
+Ciências da Terra) e ciências sociais (História, Economia, Sociologia, Psicologia, Comunicação, Política, etc)
 
 > [!NOTE]
 > As áreas da computação que são consideradas empíricas e sociais são: Engenharia de Software, Informática na Educação,
