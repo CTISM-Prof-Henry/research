@@ -68,12 +68,10 @@ flowchart LR
     D["Experimentação"]
     E["Conclusão"]
 
-
     A --> B 
     B --> C
     C --> D
     D --> E
-
 ```
 
 <a href="https://www.tiktok.com/@cissoslimshady/video/7111893704968899846?q=eminem%208%20mile%20portugu%C3%AAs&t=1722615453092">
@@ -82,7 +80,7 @@ flowchart LR
 
 ## Terraplanistas
 
-Por que os experimentos dos terraplanistas dão errado?
+Por que os experimentos dos terraplanistas dão errado? [^3]
 
 <img alt="Flat earth experiment" src="https://i.ytimg.com/vi/28sJaLtefRg/maxresdefault.jpg" width="400px">
 
@@ -94,3 +92,4 @@ Por que os experimentos dos terraplanistas dão errado?
 
 [^1]: WAZLAWICK, Raul S. Metodologia de Pesquisa para Ciência da Computação. Rio de Janeiro: Campus, 2009.
 [^2]: Brasil Escola. Método científico. Disponível em https://brasilescola.uol.com.br/quimica/metodo-cientifico.htm. Acesso em 19/09/2024.
+[^3]: Answers in Genesis. The Scientific Method and the Flat Earth. Disponível em https://answersingenesis.org/blogs/danny-faulkner/2020/01/31/scientific-method-and-flat-earth/. Acesso em  19/09/2024.
