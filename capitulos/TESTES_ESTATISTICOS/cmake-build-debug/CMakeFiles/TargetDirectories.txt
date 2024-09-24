@@ -1,3 +1,0 @@
-C:/Users/henry/Projects/research/capitulos/TESTES_ESTATISTICOS/cmake-build-debug/CMakeFiles/rabbit.dir
-C:/Users/henry/Projects/research/capitulos/TESTES_ESTATISTICOS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/henry/Projects/research/capitulos/TESTES_ESTATISTICOS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
