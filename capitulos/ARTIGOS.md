@@ -46,7 +46,7 @@ Nesta seção, descreve-se o levantamento da literatura feito anteriormente ao i
 propondo um novo método que será comparado ao que existia anteriormente, é possível introduzir brevemente os 
 competidores, deixando para fazer uma descrição detalhada na seção de [Metodologia](#metodologia). 
 
-O objetivo desta seção é mostrar que os autores fizeram um trabalho de busca antes de escrever num novo artigo, 
+O objetivo desta seção é mostrar que os autores fizeram um trabalho de busca antes de escrever um novo artigo, 
 identificando os pontos fortes e fracos do que já está disponível na literatura. 
 
 ## Metodologia
