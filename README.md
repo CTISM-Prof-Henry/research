@@ -9,7 +9,7 @@
 ## Sumário
 
 * [Dados da disciplina](#dados-da-disciplina)
-* [Conteúdos](#conteúdos)
+* [Capítulos](#capítulos)
 * [Perguntas & Respostas](#perguntas--respostas)
 * [Avaliação](#avaliação)
 * [Programa](#programa)
@@ -26,7 +26,7 @@
 | Carga horária | 15h prática, 30h teórica (45h total)                        |
 | Ementário     | [link](https://www.ufsm.br/ementario/disciplinas/DPADI0174) |
 
-## Conteúdos
+## Capítulos
 
 Acesse a página [Capítulos](capitulos/README.md)
 
