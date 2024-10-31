@@ -32,13 +32,19 @@ ser: rede neural, multilayer perceptron, problema do agendamento.
 
 ## Introdução
 
-A introdução é uma versão expandida do resumo. Não existe limite de palavras para esta seção. É possível introduzir 
+A introdução é uma versão expandida do resumo e uma versão reduzida do artigo. Não existe limite de palavras para esta seção. É possível introduzir 
 siglas e fazer citações. Porém, deve-se evitar referenciar figuras, tabelas, fórmulas, etc nesta seção.
 
-O último parágrafo da introdução é reservado para um índice do resto do artigo:
+Uma boa estrutura de introdução é a seguinte: 
 
-> O resto deste artigo é organizado da seguinte forma. A Seção 2 traz os trabalhos relacionados. A Seção 3 introduz a
-> metodologia adotada para resolver o problema. [...]
+1. O primeiro parágrafo introduz de maneira geral o problema ("na era da tecnologia atual...");
+2. O segundo parágrafo discute de maneira específica o problema ("existe um problema com a tecnologia atual que é...");
+3. Terceiro parágrafo introduz rapidamente a literatura revisada, e uma análise breve do que foi descoberto;
+4. O terceiro parágrafo ou quarto (a depender da escrita) pode propor uma nova solução para o problema, e discorrer brevemente o que o artigo descobre/propõe;
+5. O último parágrafo da introdução é reservado para um índice do resto do artigo:
+
+   > O resto deste artigo é organizado da seguinte forma. A Seção 2 traz os trabalhos relacionados. A Seção 3 introduz a
+   > metodologia adotada para resolver o problema. [...]
 
 ## Trabalhos relacionados
 
@@ -48,6 +54,11 @@ competidores, deixando para fazer uma descrição detalhada na seção de [Metod
 
 O objetivo desta seção é mostrar que os autores fizeram um trabalho de busca antes de escrever um novo artigo, 
 identificando os pontos fortes e fracos do que já está disponível na literatura. 
+
+Cada parágrafo da revisão da literatura pode ser um artigo revisado, caso cada artigo revisado seja **muito relevante**, 
+ou então um tópico abordado, e listar os artigos que trabalham aquele tópico. Se o artigo fosse de segurança do trabalho, 
+poderia-se ter um parágrafo para cada tópico (Equipamentos de Proteção Individual, Equipamentos de Proteção Coletiva), 
+e explicar o que cada artigo que fala sobre aqueles tópicos está discutindo.
 
 ## Metodologia
 
@@ -62,6 +73,10 @@ proposto neste artigo.
 Também descreve-se a configuração dos experimentos, se houverem, e como estes experimentos podem ser reproduzidos pelo 
 leitor.
 
+No caso de uma revisão da literatura, descreve-se como foi feita a busca dos artigos na Web (fontes de dados, strings de 
+busca, número de artigos retornados, número de artigos que tiveram o resumo lido, número de artigos que foram 
+completamente revisados).
+
 ## Resultados e discussão
 
 Nesta seção, descreve-se os resultados obtidos, e discute-se as causas que levaram aos resultados, e o
@@ -69,6 +84,10 @@ que eles significam.
 
 É sempre importante enquadrar o método proposto no artigo sob uma luz positiva, enfatizando seus pontos fortes em 
 relação ao que já existia na literatura.
+
+No caso de uma revisão da literatura, é a hora de **discutir** o que os artigos estão "falando". Isto quer dizer, 
+fazer uma leitura crítica dos autores e tentar traçar um consenso entre a opinião deles. Caso não haja consenso, 
+é a hora de deixar claro que o tópico ainda está sendo discutido na literatura. 
 
 ## Conclusão
 
@@ -103,6 +122,21 @@ O [LaTeX](LATEX.md) cuida automaticamente de todas estas regras.
 > Cite as referências no texto! O LaTeX faz isto automaticamente: Ao usar `\cite{cagnini2018eda}` no corpo do texto por
 > exemplo, é adicionada automaticamente uma entrada na lista de referências no documento LaTeX. Porém, se você utilizar 
 > o Word, você precisará citar todos os artigos no corpo do texto para só então adicioná-los à lista de referências. 
+
+> [!IMPORTANT]
+> Veja se as entradas BibTeX (que podem ser coletadas no botão "Citar" ao pesquisar um artigo no Google Scholar) usadas
+> possuem todos os campos necessários. Por exemplo, caso esteja citando um livro `@book`, veja
+> se o campo `numpages` está preenchido. Se não estiver, será necessário coletar esta informação na Internet!
+> Exemplo: isto é um livro, mas a referência do Google Scholar traz como um item misto:
+> ```latex
+> @misc{goodfellow2016deep,
+>  title={Deep learning},
+>  author={Goodfellow, Ian},
+>  year={2016},
+>  publisher={MIT press}
+> }
+> ```
+> Será necessário então procurar como é feita a entrada `@book` e preencher os campos faltantes.
 
 ## Anexos
 
