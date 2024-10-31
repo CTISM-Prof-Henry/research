@@ -42,7 +42,6 @@ Uma boa estrutura de introdução é a seguinte:
 3. Terceiro parágrafo introduz rapidamente a literatura revisada, e uma análise breve do que foi descoberto;
 4. O terceiro parágrafo ou quarto (a depender da escrita) pode propor uma nova solução para o problema, e discorrer brevemente o que o artigo descobre/propõe;
 5. O último parágrafo da introdução é reservado para um índice do resto do artigo:
-
    > O resto deste artigo é organizado da seguinte forma. A Seção 2 traz os trabalhos relacionados. A Seção 3 introduz a
    > metodologia adotada para resolver o problema. [...]
 
