@@ -32,15 +32,17 @@ ser: rede neural, multilayer perceptron, problema do agendamento.
 
 ## Introdução
 
-A introdução é uma versão expandida do resumo e uma versão reduzida do artigo. Não existe limite de palavras para esta seção. É possível introduzir 
-siglas e fazer citações. Porém, deve-se evitar referenciar figuras, tabelas, fórmulas, etc nesta seção.
+A introdução é uma versão expandida do resumo e uma versão reduzida do artigo. Não existe limite de palavras para esta 
+seção. É possível introduzir siglas e fazer citações. Porém, deve-se evitar referenciar figuras, tabelas, fórmulas, etc 
+nesta seção.
 
 Uma boa estrutura de introdução é a seguinte: 
 
 1. O primeiro parágrafo introduz de maneira geral o problema ("na era da tecnologia atual...");
 2. O segundo parágrafo discute de maneira específica o problema ("existe um problema com a tecnologia atual que é...");
 3. Terceiro parágrafo introduz rapidamente a literatura revisada, e uma análise breve do que foi descoberto;
-4. O terceiro parágrafo ou quarto (a depender da escrita) pode propor uma nova solução para o problema, e discorrer brevemente o que o artigo descobre/propõe;
+4. O terceiro parágrafo ou quarto (a depender da escrita) pode propor uma nova solução para o problema, e discorrer 
+   brevemente o que o artigo descobre/propõe;
 5. O último parágrafo da introdução é reservado para um índice do resto do artigo:
    > O resto deste artigo é organizado da seguinte forma. A Seção 2 traz os trabalhos relacionados. A Seção 3 introduz a
    > metodologia adotada para resolver o problema. [...]

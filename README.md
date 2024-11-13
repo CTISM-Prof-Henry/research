@@ -9,7 +9,7 @@
 ## Sumário
 
 * [Dados da disciplina](#dados-da-disciplina)
-* [Capítulos](#capítulos)
+* [Capítulos](capitulos/README.md)
 * [Perguntas & Respostas](#perguntas--respostas)
 * [Avaliação](#avaliação)
 * [Programa](#programa)
@@ -25,10 +25,6 @@
 | Curso         | Tecnologia em Redes de Computadores                         |
 | Carga horária | 15h prática, 30h teórica (45h total)                        |
 | Ementário     | [link](https://www.ufsm.br/ementario/disciplinas/DPADI0174) |
-
-## Capítulos
-
-Acesse a página [Capítulos](capitulos/README.md)
 
 ## Plano de ensino
 

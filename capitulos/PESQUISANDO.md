@@ -7,9 +7,10 @@ mão na massa é pesquisar na literatura!
 
 ## Procurando artigos
 
-**Procure artigos recentes:** Dê preferência a artigos escritos nos últimos 5 anos! Com isso, garante-se que a literatura está atualizada.
+**⌚ Procure artigos recentes:** Dê preferência a artigos escritos nos últimos 5 anos! Com isso, garante-se que a 
+literatura está atualizada.
 
-**Veja que tipo de trabalho está sendo lido:** É uma tese? É uma dissertação? É um TCC? Dê preferência a artigos
+**⌚ Veja que tipo de trabalho está sendo lido:** É uma tese? É uma dissertação? É um TCC? Dê preferência a artigos
 de revistas e conferências respeitáveis. Nem tudo o que está indexado no Google Scholar é de alta qualidade!
 
 **🧐 Dê preferência a fontes confiáveis:** Repositórios de artigos online como [Scopus](https://www.scopus.com), 
@@ -139,16 +140,28 @@ tanto nos repositórios online de artigos como no [Google Scholar](https://schol
 
 Uma vez que você tenha coletado todos os artigos que pretende ler, é hora de revisá-los!
 
-**📊 Crie uma planilha:** seja no Excel ou no Google Docs, crie uma planilha para sistematizar quais artigos você já leu, 
-o que você descobriu sobre eles, e se são pertinentes a sua pesquisa. 
+**📊 Crie uma planilha:** seja no Excel ou no Google Docs, crie uma planilha para sistematizar quais artigos você já 
+leu, o que você descobriu sobre eles, e se são pertinentes a sua pesquisa. Confira o exemplo abaixo:
+
+| Campo          | Valor                                                                        |
+|----------------|------------------------------------------------------------------------------|
+| Ano            | 2018                                                                         |
+| Título         | Increasing Boosting Effectiveness with Estimation of Distribution Algorithms |
+| BibTeX         | ```@inproceedings{...```                                                     |
+| Palavras-chave | ensemble learning; boosting                                                  |
+| Autores        | Henry Cagnini; Rodrigo Coelho Barros; Márcio Basgalupp                       |
+| Publicação     | IEEE Congress on Evolutionary Computation                                    |
+| Link           | https://ieeexplore.ieee.org/document/8477959                                 |
+| Anotações      | Este artigo revisa um algoritmo evolutivo para indução de ensembles...       |
+
 
 **💾 Use o Mendeley:** O [Mendeley](https://www.mendeley.com/) é um software de gestão de referências. Nele, é possível 
 colocar o PDF dos artigos, fazer marcações (com um marca texto), e recuperar rapidamente a maneira de como escrever as 
 referências. Apesar de ser opcional, é uma ferramenta que facilita o trabalho de revisão de artigos! 
 
-**📝 Leia apenas o resumo:** Para todos os artigos que retornaram na busca dos repositórios online, leia *apenas o resumo*
-inicialmente. Se o resumo não parece ser do assunto que você está procurando, descarte o artigo! Só depois de ter 
-feito isto para todos os artigos, prossiga para revisá-los por inteiro.
+**📝 Leia apenas o resumo:** Para todos os artigos que retornaram na busca dos repositórios online, leia *apenas o 
+resumo* inicialmente. Se o resumo não parece ser do assunto que você está procurando, descarte o artigo! Só depois de 
+ter feito isto para todos os artigos, prossiga para revisá-los por inteiro.
 
 **✍️ Escreva as citações desde já:** caso você encontre uma frase em um dos artigos revisados que julgue interessante, 
 copie-e-cole a frase, colocando-a entre parênteses, e já faça a citação no texto do artigo que você está escrevendo! 
