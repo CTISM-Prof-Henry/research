@@ -10,7 +10,7 @@ mão na massa é pesquisar na literatura!
 **⌚ Procure artigos recentes:** Dê preferência a artigos escritos nos últimos 5 anos! Com isso, garante-se que a 
 literatura está atualizada.
 
-**⌚ Veja que tipo de trabalho está sendo lido:** É uma tese? É uma dissertação? É um TCC? Dê preferência a artigos
+**📜 Veja que tipo de trabalho está sendo lido:** É uma tese? É uma dissertação? É um TCC? Dê preferência a artigos
 de revistas e conferências respeitáveis. Nem tudo o que está indexado no Google Scholar é de alta qualidade!
 
 **🧐 Dê preferência a fontes confiáveis:** Repositórios de artigos online como [Scopus](https://www.scopus.com), 
