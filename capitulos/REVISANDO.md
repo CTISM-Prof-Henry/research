@@ -18,6 +18,11 @@ está elaborando a revisão. Confira abaixo aspectos importantes:
 
 **Revise as ideias:** A ideia do artigo faz sentido? A metodologia está bem descrita, e não possui falhas? Aqui é o momento de verificar o mérito do artigo, e não apenas a sua forma. É importante escrever a revisão de maneira que os autores possuam uma revisão que colabore para que a próxima versão do trabalho (seja o mesmo artigo, ou um artigo subsequente) esteja aprimorada.
 
+## Exemplo de revisão de um artigo
+
+> [!IMPORTANT]
+> Não faça como o revisor 1! Seja o revisor 2.
+
 Link do artigo: http://www.abenge.org.br/sis_artigo_com_capa.php/?cod_trab=5162
 
 > Revisor 1:
