@@ -1,6 +1,6 @@
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/CTISM-Prof-Henry/research/main/capitulos/PESQUISANDO.md)
 
-# Pesquisando
+# Pesquisando artigos
 
 Teve uma ideia? Pretende fazer pesquisa (artigo, TCC, mestrado, doutorado) com ela? O primeiro passo antes de colocar a
 mão na massa é pesquisar na literatura!

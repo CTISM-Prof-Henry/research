@@ -1,4 +1,4 @@
-# Revisando
+# Revisando artigos
 
 Foi escolhido para ser revisor de alguma conferência ou revista? Não se preocupe! Existe um conjunto de características
 que devem ser conferidas ao revisar um artigo que ainda não foi publicado.
