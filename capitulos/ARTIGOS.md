@@ -6,7 +6,19 @@ A estrutura básica de um artigo pode ser descrita da seguinte forma:
 
 <img alt="uma folha de uma artigo descrevendo sua estrutura básica" src="imagens/artigos/artigo.svg" width="200px">
 
-## Título
+## Legenda dos emojis
+
+* ⏹️ Obrigatório para todos os tipos de artigo.
+* ⏩ Opcional para todos os tipos de artigo.
+* ⏯️ Obrigatório para um tipo de artigo.
+* 🟧 O tipo do artigo é um experimento
+* 🟪 O tipo do artigo é um estudo de caso ou experimento
+
+## ⏹️ Título
+
+> [!NOTE]
+> Artigos escritos em inglês devem possuir um título (title) em inglês. Artigos escritos em outras línguas 
+> (incluindo português) devem possuir dois títulos, um escrito na língua do artigo, e outro em inglês.
 
 O título deve comunicar, de maneira mais breve possível, a ideia geral do artigo. Geralmente é limitado a no máximo
 3 linhas.
@@ -15,14 +27,38 @@ O título deve comunicar, de maneira mais breve possível, a ideia geral do arti
 agendamento de salas de aula` é um título mais eficiente do que `Multilayer perceptron para resolução do problema de 
 agendamento`.
 
-## Resumo
+## ⏹️ Autores e filiação
+
+Abaixo do título segue-se a listagem dos autores do artigo e suas filiações. As filiações são dadas por números 
+superscritos, sendo cada número para uma instituição diferente.
+
+Os autores são ordenados de acordo com a contribuição para o artigo. O autor que mais trabalhou no artigo é listado em 
+primeiro, seguido pelo segundo autor que mais trabalhou, e assim por diante.
+
+Os autores seniores também são ordenados de acordo com a sua contribuição indireta ao artigo. Por exemplo, o chefe de um 
+laboratório pode ter conseguido financiamento para o projeto no qual o artigo se insere, mas não trabalhou diretamente 
+no artigo. Portanto, seu nome deve aparecer por último. O orientador do aluno pode ser o penúltimo autor, pois teve uma 
+atuação mais presente no artigo, como por exemplo revisando as ideias e o texto.
+
+![autores](imagens/artigos/autores.png)
+
+## ⏹️ Resumo
+
+> [!NOTE]
+> Artigos escritos em inglês devem possuir um resumo (abstract) em inglês. Artigos escritos em outras línguas 
+> (incluindo português) devem possuir dois resumos, um escrito na língua do artigo, e outro em inglês.
 
 O resumo é uma versão expandida do título. Contém geralmente entre 150 e 250 palavras, e comunica toda a ideia do 
 artigo: o problema a ser resolvido, a solução proposta, os resultados obtidos, e uma brevíssima discussão. 
 
-Não devemos incluir citações - por exemplo, (CAGNINI, 2018) - nem siglas (CTISM) no resumo.  
+Não devemos incluir citações - por exemplo, (CAGNINI, 2018) - nem siglas (CTISM) no resumo.
 
-## Palavras-chave
+## ⏹️ Palavras-chave
+
+> [!NOTE]
+> Artigos escritos em inglês devem possuir palavras-chave (keywords) em inglês. Artigos escritos em outras línguas 
+> (incluindo português) devem possuir dois conjuntos de palavras-chave, um escrito na língua do artigo, e outro em 
+> inglês.
 
 Geralmente limitadas de 3 a 5, são as chaves que serão inseridas em motores de busca (Scopus, IEEE Xplore, Science 
 Direct, etc) para indexar o artigo. As palavras-chave podem ser mais específicas do que o título.
@@ -30,10 +66,10 @@ Direct, etc) para indexar o artigo. As palavras-chave podem ser mais específica
 Por exemplo, para um trabalho intitulado `Uma rede neural para agendamento de salas de aula`, as palavras-chave poderiam 
 ser: rede neural, multilayer perceptron, problema do agendamento.
 
-## Introdução
+## ⏹️ Introdução
 
-A introdução é uma versão expandida do resumo e uma versão reduzida do artigo. Não existe limite de palavras para esta 
-seção. É possível introduzir siglas e fazer citações. Porém, deve-se evitar referenciar figuras, tabelas, fórmulas, etc 
+A introdução é uma versão expandida do resumo e uma versão reduzida do artigo. Não existe limite de palavras para 
+esta seção. É possível introduzir siglas e fazer citações. Porém, deve-se evitar referenciar figuras, tabelas, fórmulas, etc 
 nesta seção.
 
 Uma boa estrutura de introdução é a seguinte: 
@@ -47,7 +83,18 @@ Uma boa estrutura de introdução é a seguinte:
    > O resto deste artigo é organizado da seguinte forma. A Seção 2 traz os trabalhos relacionados. A Seção 3 introduz a
    > metodologia adotada para resolver o problema. [...]
 
+## ⏩ Fundamentação teórica
+
+A seção de fundamentação teórica é opcional, e seu uso depende da utilidade que os autores veem em adicionar uma seção 
+deste tipo. Nela, aprofunda-se em maiores detalhes sobre conceitos que precisam ser explicados para a correta 
+compreensão do resto do artigo.
+
+Artigos de revisão da literatura se beneficiam mais da inclusão deste tipo de seção, pois deixa as outras seções sem 
+amarras de introduzir os conceitos a cada vez que forem discutidos.
+
 ## Trabalhos relacionados
+
+⏯️🟧 Obrigatório para experimentos.
 
 Nesta seção, descreve-se o levantamento da literatura feito anteriormente ao início do trabalho. Caso o artigo esteja
 propondo um novo método que será comparado ao que existia anteriormente, é possível introduzir brevemente os 
@@ -90,7 +137,7 @@ No caso de uma revisão da literatura, é a hora de **discutir** o que os artigo
 fazer uma leitura crítica dos autores e tentar traçar um consenso entre a opinião deles. Caso não haja consenso, 
 é a hora de deixar claro que o tópico ainda está sendo discutido na literatura. 
 
-## Conclusão
+## ⏹️ Conclusão
 
 A conclusão é a introdução no fim do artigo. Porém, diferente da introdução, deve-se evitar **introduzir** novos 
 conceitos, como siglas, e fazer citações; tudo o que precisava ser dito, já deveria ter sido dito anteriormente. Reserve
@@ -98,16 +145,22 @@ a conclusão para discorrer brevemente sobre o problema a ser resolvido, como el
 resultados obtidos, a qualidade dos resultados, e quais as direções futuras para um próximo artigo, nesta mesma linha de
 pesquisa.
 
-## Agradecimentos
+## ⏩ Uso de Inteligência Artificial
 
-> [!NOTE]
-> Esta seção é opcional.
+Esta seção é relativamente nova na literatura. Nela, descreve-se se os autores fizeram uso ou não de Inteligência 
+Artificial para auxiliar na escrita, e como esse uso foi feito:
+
+> Os autores usaram uma inteligência artificial para revisar a ortografia e dar um esqueleto inicial de como a estrutura 
+> do texto deveria ser. A parte disso, garantimos que o restante do texto é de nossa autoria, e constitui um trabalho 
+> original.
+
+## ⏩ Agradecimentos
 
 Geralmente são agradecidos os órgãos de fomento que financiaram esta pesquisa (CAPES, CNPq, etc), e pessoas que 
 colaboraram na elaboração do artigo, mas não tiveram um envolvimento grande o suficiente para serem creditadas como 
 autores (por exemplo, alguém que revisou a ortografia voluntariamente).
 
-## Referências
+## ⏹️ Referências
 
 As referências são onde colocamos a lista de todos os artigos, revistas, sites, softwares, etc que referenciamos no 
 texto. Geralmente, existe um conjunto de regras sobre como os artigos devem ser elencados na lista de referências
@@ -139,10 +192,7 @@ O [LaTeX](LATEX.md) cuida automaticamente de todas estas regras.
 > ```
 > Será necessário então procurar como é feita a entrada `@book` e preencher os campos faltantes.
 
-## Anexos
-
-> [!NOTE]
-> Esta seção é opcional.
+## ⏩ Anexos
 
 Nos anexos colocamos todos os itens que não couberam no artigo, seja por limitação de páginas, ou limitação finalidade:
 por exemplo, tabelas com resultados intermediários de experimentos.
