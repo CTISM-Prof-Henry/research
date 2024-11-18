@@ -5,6 +5,10 @@
 Teve uma ideia? Pretende fazer pesquisa (artigo, TCC, mestrado, doutorado) com ela? O primeiro passo antes de colocar a
 mão na massa é pesquisar na literatura!
 
+## Ideia geral de pesquisa
+
+Pesquisar em fontes bibliográficas pode ser comparado a fazer uma busca para comprar um computador.  
+
 ## Procurando artigos
 
 **⌚ Procure artigos recentes:** Dê preferência a artigos escritos nos últimos 5 anos! Com isso, garante-se que a 

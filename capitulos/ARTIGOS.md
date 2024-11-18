@@ -192,6 +192,91 @@ O [LaTeX](LATEX.md) cuida automaticamente de todas estas regras.
 > ```
 > Será necessário então procurar como é feita a entrada `@book` e preencher os campos faltantes.
 
+### Tipos de referências
+
+Do manual disponibilizado pelo [OpenOffice](https://www.openoffice.org/bibliographic/bibtex-defs.pdf):
+
+| Tipo de entrada BibTeX | Descrição                                                                                         | Campos obrigatórios                                    | Campos opcionais                                                                     |
+|:-----------------------|:--------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:-------------------------------------------------------------------------------------|
+| article                | Um artigo em periódico ou revista.                                                                | author, title, journal, year                           | volume, number, pages, month, note                                                   |
+| inproceedings          | Um artigo que faz parte dos anais de uma conferência.                                             | author, title, booktitle, year                         | editor, volume, number, series, pages, address, month, organization, publisher, note |
+| conference             | Mesma coisa que inproceedings.                                                                    | author, title, booktitle, year                         | editor, volume, number, series, pages, address, month, organization, publisher, note |                                                       |                                                                                      |
+| incollection           | Um capítulo de um livro, que é uma coletânea de artigos. O título é o título do capítulo.         | author, title, booktitle, publisher, year              | editor, volume, number, series, type, chapter, pages, address, edition, month, note  |
+| book                   | Um livro publicado com uma editora.                                                               | author, editor, title, publisher, year                 | volume, number, series, address, edition, month, note                                |
+| booklet                | Um livro publicado sem uma editora.                                                               | title                                                  | author, howpublished, address, month, year, note                                     |
+| inbook                 | Parte constituinte de um livro, que pode ser um capítulo, seção, ou um conjunto de páginas.       | author, editor, title, chapter, pages, publisher, year | volume, number, series, type, address, edition, month, note                          |
+| manual                 | Um manual técnico, por exemplo a documentação de uma biblioteca de código.                        | title                                                  | author, organization, address, edition, month, year, note                            |
+| thesis                 | Usado para TCCs, dissertações de mestrado, e teses de doutorado.                                  | title, author, year, school, type                      | howpublished                                                                         |
+| techreport             | Um relatório técnico publicado por uma instituição de ensino ou outra instituição (e.g. empresa). | author, title, institution, year                       | type, number, address, month, note                                                   |
+| unpublished            | Um documento que ainda não foi publicado em nenhum local, por exemplo um resumo sobre um assunto. | author, title, note                                    | month, year                                                                          |
+| misc                   | Qualquer item que não se encaixa nas categorias anteriores, por exemplo uma página da Web.        | author, title, howpublished, year                      |                                                                                      |
+
+#### Exemplos
+
+```bibtex
+@article{cagnini2023survey,
+   title = {{A survey of evolutionary algorithms for supervised ensemble learning}},
+   author = {Cagnini, Henry EL and D{\^o}res, Silvia CN Das and Freitas, Alex A and Barros, Rodrigo C},
+   journal = {The Knowledge Engineering Review},
+   volume = {38},
+   number = {},
+   pages = {1--41},
+   month = {March},
+   publisher = {Cambridge University Press},
+   year = {2023}
+}
+
+@inproceedings{cagnini2018increasing,
+   author = {Cagnini, Henry and Basgalupp, M\'{a}rcio and Barros, Rodrigo},
+   title = {{Increasing Boosting Effectiveness with Estimation of Distribution Algorithms}},
+   booktitle = {Congress on Evolutionary Computation},
+   pages = {1--8},
+   organization = {IEEE},
+   year = {2018}
+}
+
+@book{cagnini2022git,
+   title = {git Essentials},
+   author = {Cagnini, Henry EL and Naidon, Thiago C},
+   year = {2022},
+   publisher = {Universidade Federal de Santa Maria}
+}
+
+@thesis{cagnini2022evolutionary,
+   title = {{Evolutionary algorithms for learning ensembles of interpretable classifiers}},
+   author = {Cagnini, Henry EL},
+   year = {2022},
+   school = {
+     Programa de P\'{o}s-Gradua\c{c}\~{a}o em Ci\^{e}ncia da Computa\c{c}\~{a}o. Pontif\'{i}cia Universidade 
+     Cat\'{o}lica do Rio Grande do Sul
+   },
+   type = {Tese (Doutorado)},
+   howpublished = {Disponível em \url{https://tede2.pucrs.br/tede2/handle/tede/10197}. Acessado em 18 de novembro de 2024}
+}
+
+@techreport{yildirim2012bayesian,
+   author = {Yildirim, Ilker},
+   title = {{Bayesian inference: Gibbs sampling}},
+   institution = {Department of Brain and Cognitive Sciences, University of Rochester},
+   year = {2012},
+   month = {August},
+   numpages = {6},
+   address = {Rochester, USA}
+}
+
+@misc{ramos2008concepccao,
+   title = {Concep\c{c}\~{a}o do ensino m\'{e}dio integrado},
+   author = {Ramos, Marise},
+   year = {2008},
+   howpublished = {
+    Disponível em: 
+    \url{http://forumeja.org.br/go/sites/forumeja.org.br.go/files/concepcao_do_ensino_medio_integrado5.pdf}. Acessado 
+    em 13 junho 2023.
+   }
+}
+```
+
+
 ## ⏩ Anexos
 
 Nos anexos colocamos todos os itens que não couberam no artigo, seja por limitação de páginas, ou limitação finalidade:
@@ -231,3 +316,25 @@ de como as permissões foram configuradas, é preciso autorizar cada pessoa que 
 ([exemplo](https://www.sciencedirect.com/journal/ecological-informatics/publish/guide-for-authors)) para ver como o 
 artigo deve ser configurado. Se possível, dê preferência ao LaTeX; muitas revistas e conferências disponibilizam um 
 template, com margens, modo de citação, etc tudo configurado!
+
+## Principais erros ao escrever artigos científicos
+
+Os erros abaixo são um compilado dos erros mais frequentes cometidos por alunos ao escrever artigos:
+
+1. **Usar uma IA para pesquisar artigos:** IAs possuem conhecimento limitado à data de seu último treinamento, e não irão
+   mostrar os artigos mais recentes (que geralmente são o estado da arte para uma área). Além disso, IAs
+2. **Usar uma IA para escrever o artigo:** a IA pode ser usada para dar um esqueleto das ideias do artigo, corrigir 
+   ortografia, ou outras tarefas pequenas. Mas ela nunca deve ser usada para escrever trechos do artigo, pois isso 
+   configura um uso indevido de IA. Se submetido a uma revista ou conferência, o artigo pode ser retirado da publicação, 
+   e o nome do autor manchado para sempre!
+3. **Não colocar as referências dentro do arquivo `.bib`**: Não declare as referências no arquivo `.tex`, pois isto é 
+   uma má prática de escrita! Use o arquivo `.bib` para isto. 
+4. **Muitas palavras-chave:** limite a no máximo 5 palavras-chave. Use termos técnicos que facilitem a busca do artigo 
+   em motores de busca.
+5. **Introdução muito curta:** o objetivo da introdução é introduzir o assunto. Faça de conta que está explicando o 
+   assunto para sua avó: o que é preciso para que ela entenda sobre o que o artigo se trata? 
+6. **Metodologia não descrita corretamente:** na metodologia descreve-se como foi feita a revisão de artigos, quais as 
+   strings de busca foram usadas, em quais sites foram pesquisados, e quantos artigos foram retornados (e revistos).
+7. **Trabalhos relacionados que não são relacionados:** os trabalhos relacionados são os trabalhos que mais se aproximam 
+   do artigo que está sendo escrito: se o artigo é um experimento, são artigos que também fizeram experimentos; se o 
+   artigo é uma revisão da literatura, são artigos que também fizeram revisões da literatura.
