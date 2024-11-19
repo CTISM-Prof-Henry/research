@@ -10,3 +10,4 @@
 8. [LaTeX](LATEX.md) 
 9. [Revisando artigos](REVISANDO.md)
 10. [Publicando sua pesquisa](PUBLICANDO.md)
+11. [Apresentando um pôster](POSTERS.md)
