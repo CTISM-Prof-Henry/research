@@ -94,7 +94,8 @@ com colegas, e no site da universidade:
 
 Uma dica importante para seu trabalho ser lido e lembrado é publicar a versão permitida pela revista no repositório 
 online da sua universidade. A UFSM por exemplo possui o [Manancial](https://repositorio.ufsm.br/), que publica artigos 
-através de solicitações por e-mail. 
+através de solicitações por e-mail. Você também pode colocar seu artigo no [Research Gate](https://www.researchgate.net/), 
+uma rede social para compartilhamento de artigos.
 
 **🔁 Compartilhe nas redes sociais:** Você sabia que artigos que possuem posts em redes sociais são mais lidos?[^1] 
 Talvez isto não aumente o número de citações (como demonstrado no artigo[^2]), mas é melhor divulgar o seu trabalho do 
@@ -102,6 +103,15 @@ que deixá-lo engavetado uma vez publicado!
 
 [^1]: Disponível [neste link](https://www.science.org/content/article/scienceadviser-sharing-papers-social-media-probably-doesn-t-increase-citations-and-s)
 [^2]: Disponível [neste link](https://www.biorxiv.org/content/10.1101/2023.09.17.558161v1.full?et_rid=960447322&et_cid=4918971)
+
+**🤖 Use um serviço de busca automatizado:** você pode usar sites como [Elsevier Journal Finder](https://journalfinder.elsevier.com),
+[Researcher Life](https://researcher.life/journal), [Wiley Journal Finder](https://journalfinder.wiley.com/search?type=match)
+etc para colar o resumo do seu artigo e ver qual revista desta editora é mais adequada para seu artigo!
+
+**🪤 Cuidado com as revistas predatórias:** Recebeu um e-mail dizendo que seu TCC é muito bom e renderia um capítulo de livro, mas
+precisa pagar 200 reais? É furada! Pesquise o nome da publicação na internet e veja se não é uma revista predatória (sem fator de impacto
+nenhum, e que cobra para fazer submissões). Estas revistas mandam inúmeros e-mails como o que você recebeu por mês, e este é o 
+modelo de negócio delas!
 
 ### 3.2 Enviar versão inicial
 
