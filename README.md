@@ -9,11 +9,10 @@
 ## Sumário
 
 * [Dados da disciplina](#dados-da-disciplina)
-* [Capítulos](capitulos/README.md)
-* [Perguntas & Respostas](#perguntas--respostas)
+* [Plano de ensino](#plano-de-ensino)
 * [Avaliação](#avaliação)
-* [Programa](#programa)
-* [Bibliografia](#bibliografia)
+* [Perguntas & Respostas](#perguntas--respostas)
+* [Programa da disciplina e bibliografia](#programa-da-disciplina-e-bibliografia)
 * [Contato](#contato)
 
 ## Dados da disciplina
@@ -28,13 +27,15 @@
 
 ## Plano de ensino
 
-Disponível [neste arquivo](plano/plano_ensino_DPADI0174_078_CTISM_10_2024_102.pdf)
+Será disponibilizado no Moodle da disciplina.
 
 ## Avaliação
 
-* 2 trabalhos **em grupo**
-  * 1 artigo (50%) 
-  * 1 pôster (50%)
+Serão 3 os instrumentos avaliativos:
+
+1. **(33%)** Uma prova de leitura e análise de artigos científicos;
+2. **(33%)** Uma prova de escrita de texto científico;
+3. **(34%)** Uma redação de artigo, no formato MDT, revisado por pares.
 
 ## Perguntas & Respostas
 
@@ -94,54 +95,12 @@ hipóteses (caso o Moodle esteja fora do ar), para o meu e-mail.
 Me mande um e-mail! [henry.cagnini@ufsm.br]()
 
 
-## Programa
+## Programa da disciplina e bibliografia
 
-> [!NOTE]
-> O programa descrito aqui pode estar desatualizado. Confira sempre no
-> [ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174)!
-
-
-1. **CIÊNCIA E CONHECIMENTO**
-   1. Ciência e compreensão da realidade;
-   2. Tipos de conhecimento;
-2. **MÉTODO CIENTÍFICO** 
-   1. Abordagens e classificações; 
-3. **TRABALHOS ACADÊMICOS**
-   1. Tipos de trabalho acadêmico: fichamento, sinopse, resumo, resenha, artigo, relatório, projeto, memorial, 
-      pôster, monografia, dissertação, tese; 
-   2. Estrutura, organização e elaboração de trabalhos acadêmicos.;
-   3. Normas técnicas e metodológicas;
-4. **ELABORAÇÃO DE DIFERENTES TRABALHOS ACADÊMICOS**
-   1. Artigos científicos;
-   2. Monografias;
-   3. Poster;
-   4. Relatórios acadêmicos.
-
-
-## Bibliografia
-
-> [!NOTE]  
-> A bibliografia descrita aqui pode estar desatualizada. Confira sempre no 
-> [ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174)!
-
-Estes livros estão descritos na bibliografia da disciplina na página do 
-[ementário](https://www.ufsm.br/ementario/disciplinas/DPADI0174). Os livros que possuem links estão disponíveis na 
-biblioteca digital da UFSM.
-
-Livros não-linkados podem estar disponíveis nas bibliotecas físicas da UFSM (ex. Central, Setorial do CTISM, etc).
-
-* **BIBLIOGRAFIA BÁSICA**
-  * [ANDRADE, Maria M. Introdução à Metodologia do Trabalho Científico: Elaboração de trabalhos de graduação. 10. Ed. São Paulo: Atlas, 2010.](https://integrada.minhabiblioteca.com.br/reader/books/9788522478392/pageid/0)
-  * NUNES, Rizzatto. Manual de Monografia jurídica. São Paulo: Saraiva, 2013.
-  * [WAZLAWICK, Raul S. Metodologia de Pesquisa para Ciência da Computação. Rio de Janeiro: Campus, 2009.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788595157712)
-* **BIBLIOGRAFIA COMPLEMENTAR**
-  * [GIL, Antônio C. Como elaborar projetos de pesquisa. São Paulo: Atlas, 2002.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9786559771653)
-  * [LAKATOS, Eva M.; MARCONI, Mariana A. Fundamentos de Metodologia Científica. São Paulo: Atlas, 2005.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788597026580)
-  * [LIMA, Manolita C. Monografia: a engenharia da produção acadêmica. São Paulo: Saraiva, 2008.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788502088771)
-  * OLIVEIRA, Jorge L. Texto Acadêmico: Técnicas de redação e de pesquisa científica conforme normas atuais da ABNT. Petrópolis: Vozes, 2008.
-  * [SEVERINO, Antõnio J. Metodologia do Trabalho Científico. São Paulo: Cortez, 2007.](https://portal.ufsm.br/biblioteca/leitor/minhaBiblioteca.html?isbn=9788524925207)
-
+Confira o programa da disciplina no seguinte link: https://www.ufsm.br/ementario/disciplinas/DPADI0174
 
 ## Contato
 
-[henry.cagnini@ufsm.br]()
+Preferencialmente, por e-mail: [henry.cagnini@ufsm.br]()
+
+(não vou responder caso envie uma mensagem no WhatsApp!)

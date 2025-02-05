@@ -4,7 +4,7 @@
 
 A estrutura básica de um artigo pode ser descrita da seguinte forma: 
 
-<img alt="uma folha de uma artigo descrevendo sua estrutura básica" src="imagens/artigos/artigo.svg" width="200px">
+<img alt="uma folha de uma artigo descrevendo sua estrutura básica" src="../imagens/artigos/artigo.svg" width="200px">
 
 ## Legenda dos emojis
 
@@ -40,7 +40,7 @@ laboratório pode ter conseguido financiamento para o projeto no qual o artigo s
 no artigo. Portanto, seu nome deve aparecer por último. O orientador do aluno pode ser o penúltimo autor, pois teve uma 
 atuação mais presente no artigo, como por exemplo revisando as ideias e o texto.
 
-![autores](imagens/artigos/autores.png)
+![autores](../imagens/artigos/autores.png)
 
 ## ⏹️ Resumo
 
@@ -170,7 +170,7 @@ texto. Geralmente, existe um conjunto de regras sobre como os artigos devem ser 
 * No formato `(CAGNINI, 2018)`, ou então `[1]`;
 * Regras específicas de como citar páginas de livros, artigos em proceedings, etc.
 
-O [LaTeX](LATEX.md) cuida automaticamente de todas estas regras.  
+O [LaTeX](../LATEX.md) cuida automaticamente de todas estas regras.  
 
 > [!IMPORTANT]
 > Cite as referências no texto! O LaTeX faz isto automaticamente: Ao usar `\cite{cagnini2018eda}` no corpo do texto por
