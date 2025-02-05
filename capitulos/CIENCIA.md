@@ -9,9 +9,49 @@ material de [WAZLAWICK, Raul S. Metodologia de Pesquisa para Ciência da Computa
 fenômenos da natureza ocorrem. É diferente da tecnologia pois, para esta, o objetivo é apresentar soluções de acordo com
 restrições (de preço, de tempo, etc), e não expandir o conhecimento humano.
 
-## Ciências formais e empíricas
+## Quais os tipos de ciência que existem?
 
-### Formais
+Para o CNPq, existem 8 grandes áreas do conhecimento: 
+
+* Ciências Exatas e da Terra; 
+* Ciências Biológicas; 
+* Engenharias; 
+* Ciências da Saúde; 
+* Ciências Agrárias; 
+* Ciências Sociais; 
+* Ciências Humanas; 
+* Linguística, Letras e Artes
+
+Pense agora nos centros da UFSM: quantos centros existem?
+
+* Centro de Ciências Naturais e Exatas (CCNE)
+* Centro de Tecnologia (CT)
+* Centro de Ciências da Saúde (CCS)
+* Centro de Ciências Rurais (CCR)
+* Centro de Ciências Sociais e Humanas (CCSH)
+* Centro de Artes e Letras (CAL)
+* Centro de Educação (CE)
+* Centro de Educação Física e Desportos (CEFD)
+
+Na verdade, os centros da UFSM foram pensados para refletir (da melhor maneira possível) as áreas do conhecimento do 
+CNPq!
+
+| Área de Conhecimento        | Centros Acadêmicos                                                     |
+|:----------------------------|:-----------------------------------------------------------------------|
+| Ciências Exatas e da Terra  | Centro de Ciências Naturais e Exatas (CCNE), Centro de Tecnologia (CT) |
+| Ciências Biológicas         | Centro de Ciências Naturais e Exatas (CCNE)                            |
+| Engenharias                 | Centro de Tecnologia (CT)                                              |
+| Ciências da Saúde           | Centro de Ciências da Saúde (CCS)                                      |
+| Ciências Agrárias           | Centro de Ciências Rurais (CCR)                                        |
+| Ciências Sociais            | Centro de Ciências Sociais e Humanas (CCSH)                            |
+| Ciências Humanas            | Centro de Ciências Sociais e Humanas (CCSH), Centro de Educação (CE)   |
+| Linguística, Letras e Artes | Centro de Artes e Letras (CAL)                                         |
+
+Existem outros tipos de classificação de ciências também, de acordo com o enfoque que é dado no conhecimento.
+
+### Ciências formais e empíricas
+
+#### Formais
 
 Estudam as _ideias_, não necessariamente preocupando-se com sua aplicação. É mais focado na teoria, e não na prática. 
 
@@ -22,7 +62,7 @@ São exemplos de ciências formais a Matemática, a Estatística, A Lógica e a 
 complexidade e decidibilidade, teoria das linguagens formais, aspectos formais da inteligência artificial, 
 o cálculo relacional em banco de dados, dentre outras.
 
-### Empíricas
+#### Empíricas
 
 Empíricas: estudam as _coisas_, geralmente baseando-se em fenômenos que ocorrem no mundo real. Precisam necessariamente
 basear-se em observações para serem validadas. Um exemplo de Teoria que possui pouca validação observacional é a Teoria 
@@ -39,52 +79,52 @@ Ciências da Terra) e ciências sociais (História, Economia, Sociologia, Psicol
 > Interface Humano-Computador, e alguns aspectos da Inteligência Artificial, como sistemas multi-agentes, baseados em 
 > observações de humanos em sociedade.
 
-## Ciências puras e aplicadas
+### Ciências puras e aplicadas
 
-### Puras
+#### Puras
 
 Preocupadas mais com a teoria do que com a prática, mas não necessariamente desconsiderando a prática. A ciência pura
 preocupa-se com os conceitos básicos do conhecimento, sem preocupação imediata com a aplicação. Um exemplo de ciência 
 pura é a Cosmologia, que busca explicar a origem do Universo, sem preocupar-se com a aplicação disto. Porém, é também
 empírica pois suas teorias precisam ser fundamentadas em observações.
 
-### Aplicadas
+#### Aplicadas
 
 Preocupam-se com a descoberta de conhecimento que pode ser imediatamente aplicada no mundo real. A Ciência de Materiais 
 é um exemplo de ciência aplicada, vista que a depender das propriedades do material estudado, este pode encontrar 
 rapidamente aplicações industriais.
 
-## Ciências exatas e inexatas
+### Ciências exatas e inexatas
 
-### Exatas
+#### Exatas
 
 Os seus resultados são precisos. Podem ser realizados (por exemplo) experimentos com os mesmos parâmetros, que os mesmos
 resultados serão observados. Matemática, Física e Química são áreas do conhecimento consideradas exatas. 
 
-### Inexatas
+#### Inexatas
 
 Suas conclusões são imprecisas, e a explicação pode depender de outros fatores não reprodutíveis. Economia, Metereologia
 e a maioria das Ciências Sociais são consideradas inexatas.
 
-## Ciências hard e soft
+### Ciências hard e soft
 
-### Hard
+#### Hard
 
 Ciências hard baseiam fortemente em observações empíricas, explicações matemáticas e/ou lógica para explicar seus 
 fenômenos. A Medicina é um bom exemplo de Ciência hard.
 
-### Soft
+#### Soft
 
 As ciências soft não necessitam de tanta precisão para chegar a conclusões, podendo utilizar (por exemplo) anedotas, 
 também chamadas de estudos de caso, para explicar fenômenos, quando é impossível fazer experimentos totalmente 
 controlados. A Educação Física é um exemplo de área soft.
 
-## Ciências nomotéticas e idiográficas
+### Ciências nomotéticas e idiográficas
 
-## Nomotéticas
+### Nomotéticas
 
 Estudam fenômenos que se repetem, e podem levar a geração de leis gerais que explicam estes fenômenos.
 
-## Idiográficas
+### Idiográficas
 
 Estuda fenômenos que não se repetem, como por exemplo a História.

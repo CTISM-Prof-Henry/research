@@ -11,7 +11,7 @@ leu um artigo científico sobre isso, não é mesmo? Este saber é chamado de **
 
 Existem quatro tipos de conhecimento, elencados na tabela abaixo. A presença de um emoji responde afirmativamente a 
 pergunta feita na coluna (por exemplo, o conhecimento comum é falível, sim). A única exceção é a presença dos emojis 
-➕➖, que significam "mais ou menos".
+➕➖, que significam "mais ou menos". Nessa disciplina, apenas o **conhecimento científico** será trabalhado.
 
 |                | **O que é**                                                                     | **É valorativo?** | **É factual?** | **É verificável?** | **É falível?** | **É exato?** | **É sistemático?** |
 |:---------------|:--------------------------------------------------------------------------------|------------------:|---------------:|-------------------:|---------------:|-------------:|-------------------:|
