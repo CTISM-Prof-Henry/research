@@ -322,19 +322,20 @@ template, com margens, modo de citação, etc tudo configurado!
 Os erros abaixo são um compilado dos erros mais frequentes cometidos por alunos ao escrever artigos:
 
 1. **Usar uma IA para pesquisar artigos:** IAs possuem conhecimento limitado à data de seu último treinamento, e não irão
-   mostrar os artigos mais recentes (que geralmente são o estado da arte para uma área). Além disso, IAs
-2. **Usar uma IA para escrever o artigo:** a IA pode ser usada para dar um esqueleto das ideias do artigo, corrigir 
+   mostrar os artigos mais recentes (que geralmente são o estado da arte para uma área). Além disso, IAs podem alucinar,
+   escrevendo informações que não existem!
+3. **Usar uma IA para escrever o artigo:** a IA pode ser usada para dar um esqueleto das ideias do artigo, corrigir 
    ortografia, ou outras tarefas pequenas. Mas ela nunca deve ser usada para escrever trechos do artigo, pois isso 
    configura um uso indevido de IA. Se submetido a uma revista ou conferência, o artigo pode ser retirado da publicação, 
    e o nome do autor manchado para sempre!
-3. **Não colocar as referências dentro do arquivo `.bib`**: Não declare as referências no arquivo `.tex`, pois isto é 
+4. **Não colocar as referências dentro do arquivo `.bib`**: Não declare as referências no arquivo `.tex`, pois isto é 
    uma má prática de escrita! Use o arquivo `.bib` para isto. 
-4. **Muitas palavras-chave:** limite a no máximo 5 palavras-chave. Use termos técnicos que facilitem a busca do artigo 
+5. **Muitas palavras-chave:** limite a no máximo 5 palavras-chave. Use termos técnicos que facilitem a busca do artigo 
    em motores de busca.
-5. **Introdução muito curta:** o objetivo da introdução é introduzir o assunto. Faça de conta que está explicando o 
+6. **Introdução muito curta:** o objetivo da introdução é introduzir o assunto. Faça de conta que está explicando o 
    assunto para sua avó: o que é preciso para que ela entenda sobre o que o artigo se trata? 
-6. **Metodologia não descrita corretamente:** na metodologia descreve-se como foi feita a revisão de artigos, quais as 
+7. **Metodologia não descrita corretamente:** na metodologia descreve-se como foi feita a revisão de artigos, quais as 
    strings de busca foram usadas, em quais sites foram pesquisados, e quantos artigos foram retornados (e revistos).
-7. **Trabalhos relacionados que não são relacionados:** os trabalhos relacionados são os trabalhos que mais se aproximam 
+8. **Trabalhos relacionados que não são relacionados:** os trabalhos relacionados são os trabalhos que mais se aproximam 
    do artigo que está sendo escrito: se o artigo é um experimento, são artigos que também fizeram experimentos; se o 
    artigo é uma revisão da literatura, são artigos que também fizeram revisões da literatura.
