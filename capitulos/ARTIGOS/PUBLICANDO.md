@@ -8,7 +8,7 @@ Pesquisar e publicar geralmente possuem um fluxo de trabalho bem definido:
 flowchart TD
     A["conceber uma ideia"] 
     B["escrever o artigo"]
-    C["pesquisar\nonde publicar"]
+    C["pesquisar<br>onde publicar"]
     D1["submissão inicial"]
     D2["receber revisão"]
     D3{Aprovado?}
@@ -27,35 +27,15 @@ flowchart TD
     D3 -- "sim" --> E
 ```
 
-## 1. Concepção
-
-O fluxograma de conceber uma ideia pode ser descrito da seguinte forma:
-
-```mermaid
-flowchart TD
-    A["ter uma ideia"] 
-    B["pesquisar na literatura"]
-    C["propor uma hipótese"]
-    D["testar a hipótese"]
-    E["discutir resultados"]
-    F["identificar direções futuras"]
-
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-```
-
-## 2. Escrita
+## 1. Escrita
 
 O capítulo [Artigos](ESTRUTURA) entra em maiores detalhes sobre como escrever artigos.
 
-## 3. Submissão
+## 2. Submissão
 
 O processo de submissão envolve diversas etapas menores. 
 
-### 3.1 Pesquisar onde submeter
+### 2.1 Pesquisar onde submeter
 
 Quando um artigo está pronto, não basta simplesmente submetê-lo para qualquer lugar: é preciso achar um local onde a 
 probabilidade dele ser aceito é alta. Também existem outros aspectos, como o custo de submissão, e o controle de acesso 
@@ -113,14 +93,14 @@ precisa pagar 200 reais? É furada! Pesquise o nome da publicação na internet 
 nenhum, e que cobra para fazer submissões). Estas revistas mandam inúmeros e-mails como o que você recebeu por mês, e este é o 
 modelo de negócio delas!
 
-### 3.2 Enviar versão inicial
+### 2.2 Enviar versão inicial
 
 Quando você localizar uma revista ou uma conferência para enviar seu artigo, leia atentamente o Guia para Autores 
 ([exemplo](https://www.sciencedirect.com/journal/ecological-informatics/publish/guide-for-authors)) para saber quais 
 requisitos seu artigo deve atender antes de ser considerado para publicação. As vezes,
 falhar em algum destes critérios é suficiente para o artigo sequer ser revisado!
 
-### 3.3 Receber resultado
+### 2.3 Receber resultado
 
 > [!NOTE]
 > O revisor 2 quase sempre é um babaca.
@@ -141,7 +121,7 @@ as chances de enviar para outro veículo de publicação serão maiores no futur
 Uma rejeição de um artigo geralmente significa que o artigo não pode ser resubmetido para aquele mesmo veículo. Portanto,
 neste caso, é hora de achar outro local para publicar!
 
-### 3.4 Enviar versão final
+### 2.4 Enviar versão final
 
 Algumas revistas exigem que uma carta de resposta aos revisores seja elaborada após as correções implementadas. Nesta 
 carta, é preciso fazer um _changelog_ de tudo que foi feito desde a versão anterior, e justificar o porque das 
@@ -153,6 +133,6 @@ rodada de revisões ocorra, e até mesmo que seu artigo seja rejeitado nesta nov
 
 Não deixe que isso lhe desanime! Tudo isto faz parte do processo.
 
-## 4. Recursos Adicionais
+## 3. Recursos Adicionais
 
 * [Guia da Elsevier para publicar artigos](https://www.elsevier.com/researcher/author/submit-your-paper) 
