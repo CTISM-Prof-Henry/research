@@ -91,7 +91,7 @@ etc para colar o resumo do seu artigo e ver qual revista desta editora é mais a
 **🪤 Cuidado com as revistas predatórias:** Recebeu um e-mail dizendo que seu TCC é muito bom e renderia um capítulo de livro, mas
 precisa pagar 200 reais? É furada! Pesquise o nome da publicação na internet e veja se não é uma revista predatória (sem fator de impacto
 nenhum, e que cobra para fazer submissões). Estas revistas mandam inúmeros e-mails como o que você recebeu por mês, e este é o 
-modelo de negócio delas!
+modelo de negócio delas! Elas vão aceitar qualquer coisa, até mesmo documentos [que não são artigos](https://www.scs.stanford.edu/~dm/home/papers/remove.pdf).
 
 ### 2.2 Enviar versão inicial
 
