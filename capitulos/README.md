@@ -6,7 +6,7 @@
 3. [Método Científico](METODO_CIENTIFICO.md)
 4. [Pesquisando artigos](ARTIGOS/PESQUISANDO.md)
 5. [Tipos de Trabalhos Acadêmicos](TRABALHOS_ACADEMICOS.md)
-6. [Estrutura de um artigo](ARTIGOS/ESTRUTURA)
+6. [Estrutura de um artigo](ARTIGOS/ESTRUTURA.md)
 7. [Testes estatísticos](TESTES_ESTATISTICOS/README.md)
 8. [LaTeX](LATEX.md)
 9. [Publicando sua pesquisa](ARTIGOS/PUBLICANDO.md)
